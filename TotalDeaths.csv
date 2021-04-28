@@ -1,0 +1,1981 @@
+State,Year,Month,Period,Indicator,Data Value
+UNITED STATES,2019,January,Monthly,Number of Live Births,311000
+UNITED STATES,2019,February,Monthly,Number of Live Births,280000
+UNITED STATES,2019,March,Monthly,Number of Live Births,304000
+UNITED STATES,2019,April,Monthly,Number of Live Births,299000
+UNITED STATES,2019,May,Monthly,Number of Live Births,316000
+UNITED STATES,2019,June,Monthly,Number of Live Births,304000
+UNITED STATES,2019,July,Monthly,Number of Live Births,334000
+UNITED STATES,2019,August,Monthly,Number of Live Births,342000
+UNITED STATES,2019,September,Monthly,Number of Live Births,326000
+UNITED STATES,2019,October,Monthly,Number of Live Births,325000
+UNITED STATES,2019,November,Monthly,Number of Live Births,298000
+UNITED STATES,2019,December,Monthly,Number of Live Births,309000
+UNITED STATES,2020,January,Monthly,Number of Live Births,305000
+UNITED STATES,2020,February,Monthly,Number of Live Births,282000
+UNITED STATES,2020,March,Monthly,Number of Live Births,301000
+UNITED STATES,2020,April,Monthly,Number of Live Births,290000
+UNITED STATES,2020,May,Monthly,Number of Live Births,300000
+UNITED STATES,2020,June,Monthly,Number of Live Births,300000
+UNITED STATES,2019,January,Monthly,Number of Deaths,258000
+UNITED STATES,2019,February,Monthly,Number of Deaths,233000
+UNITED STATES,2019,March,Monthly,Number of Deaths,255000
+UNITED STATES,2019,April,Monthly,Number of Deaths,235000
+UNITED STATES,2019,May,Monthly,Number of Deaths,237000
+UNITED STATES,2019,June,Monthly,Number of Deaths,225000
+UNITED STATES,2019,July,Monthly,Number of Deaths,229000
+UNITED STATES,2019,August,Monthly,Number of Deaths,227000
+UNITED STATES,2019,September,Monthly,Number of Deaths,223000
+UNITED STATES,2019,October,Monthly,Number of Deaths,238000
+UNITED STATES,2019,November,Monthly,Number of Deaths,239000
+UNITED STATES,2019,December,Monthly,Number of Deaths,256000
+UNITED STATES,2020,January,Monthly,Number of Deaths,264000
+UNITED STATES,2020,February,Monthly,Number of Deaths,244000
+UNITED STATES,2020,March,Monthly,Number of Deaths,269000
+UNITED STATES,2020,April,Monthly,Number of Deaths,321000
+UNITED STATES,2020,May,Monthly,Number of Deaths,279000
+UNITED STATES,2020,June,Monthly,Number of Deaths,249000
+UNITED STATES,2019,January,Monthly,Number of Infant Deaths,1700
+UNITED STATES,2019,February,Monthly,Number of Infant Deaths,1600
+UNITED STATES,2019,March,Monthly,Number of Infant Deaths,1800
+UNITED STATES,2019,April,Monthly,Number of Infant Deaths,1700
+UNITED STATES,2019,May,Monthly,Number of Infant Deaths,1800
+UNITED STATES,2019,June,Monthly,Number of Infant Deaths,1800
+UNITED STATES,2019,July,Monthly,Number of Infant Deaths,1800
+UNITED STATES,2019,August,Monthly,Number of Infant Deaths,1800
+UNITED STATES,2019,September,Monthly,Number of Infant Deaths,1700
+UNITED STATES,2019,October,Monthly,Number of Infant Deaths,1700
+UNITED STATES,2019,November,Monthly,Number of Infant Deaths,1700
+UNITED STATES,2019,December,Monthly,Number of Infant Deaths,1800
+UNITED STATES,2020,January,Monthly,Number of Infant Deaths,1800
+UNITED STATES,2020,February,Monthly,Number of Infant Deaths,1700
+UNITED STATES,2020,March,Monthly,Number of Infant Deaths,1600
+UNITED STATES,2020,April,Monthly,Number of Infant Deaths,1500
+UNITED STATES,2020,May,Monthly,Number of Infant Deaths,1600
+UNITED STATES,2020,June,Monthly,Number of Infant Deaths,1600
+UNITED STATES,2019,January,12 Month-ending,Number of Live Births,3786000
+UNITED STATES,2019,February,12 Month-ending,Number of Live Births,3782000
+UNITED STATES,2019,March,12 Month-ending,Number of Live Births,3770000
+UNITED STATES,2019,April,12 Month-ending,Number of Live Births,3771000
+UNITED STATES,2019,May,12 Month-ending,Number of Live Births,3767000
+UNITED STATES,2019,June,12 Month-ending,Number of Live Births,3756000
+UNITED STATES,2019,July,12 Month-ending,Number of Live Births,3760000
+UNITED STATES,2019,August,12 Month-ending,Number of Live Births,3757000
+UNITED STATES,2019,September,12 Month-ending,Number of Live Births,3760000
+UNITED STATES,2019,October,12 Month-ending,Number of Live Births,3758000
+UNITED STATES,2019,November,12 Month-ending,Number of Live Births,3749000
+UNITED STATES,2019,December,12 Month-ending,Number of Live Births,3748000
+UNITED STATES,2020,January,12 Month-ending,Number of Live Births,3742000
+UNITED STATES,2020,February,12 Month-ending,Number of Live Births,3744000
+UNITED STATES,2020,March,12 Month-ending,Number of Live Births,3741000
+UNITED STATES,2020,April,12 Month-ending,Number of Live Births,3732000
+UNITED STATES,2020,May,12 Month-ending,Number of Live Births,3716000
+UNITED STATES,2020,June,12 Month-ending,Number of Live Births,3712000
+UNITED STATES,2019,January,12 Month-ending,Number of Deaths,2806000
+UNITED STATES,2019,February,12 Month-ending,Number of Deaths,2801000
+UNITED STATES,2019,March,12 Month-ending,Number of Deaths,2807000
+UNITED STATES,2019,April,12 Month-ending,Number of Deaths,2810000
+UNITED STATES,2019,May,12 Month-ending,Number of Deaths,2817000
+UNITED STATES,2019,June,12 Month-ending,Number of Deaths,2823000
+UNITED STATES,2019,July,12 Month-ending,Number of Deaths,2827000
+UNITED STATES,2019,August,12 Month-ending,Number of Deaths,2831000
+UNITED STATES,2019,September,12 Month-ending,Number of Deaths,2834000
+UNITED STATES,2019,October,12 Month-ending,Number of Deaths,2839000
+UNITED STATES,2019,November,12 Month-ending,Number of Deaths,2846000
+UNITED STATES,2019,December,12 Month-ending,Number of Deaths,2855000
+UNITED STATES,2020,January,12 Month-ending,Number of Deaths,2861000
+UNITED STATES,2020,February,12 Month-ending,Number of Deaths,2872000
+UNITED STATES,2020,March,12 Month-ending,Number of Deaths,2886000
+UNITED STATES,2020,April,12 Month-ending,Number of Deaths,2973000
+UNITED STATES,2020,May,12 Month-ending,Number of Deaths,3015000
+UNITED STATES,2020,June,12 Month-ending,Number of Deaths,3038000
+UNITED STATES,2019,January,12 Month-ending,Number of Infant Deaths,20900
+UNITED STATES,2019,February,12 Month-ending,Number of Infant Deaths,20900
+UNITED STATES,2019,March,12 Month-ending,Number of Infant Deaths,20900
+UNITED STATES,2019,April,12 Month-ending,Number of Infant Deaths,20900
+UNITED STATES,2019,May,12 Month-ending,Number of Infant Deaths,20900
+UNITED STATES,2019,June,12 Month-ending,Number of Infant Deaths,21000
+UNITED STATES,2019,July,12 Month-ending,Number of Infant Deaths,21000
+UNITED STATES,2019,August,12 Month-ending,Number of Infant Deaths,21000
+UNITED STATES,2019,September,12 Month-ending,Number of Infant Deaths,20900
+UNITED STATES,2019,October,12 Month-ending,Number of Infant Deaths,20800
+UNITED STATES,2019,November,12 Month-ending,Number of Infant Deaths,20800
+UNITED STATES,2019,December,12 Month-ending,Number of Infant Deaths,20900
+UNITED STATES,2020,January,12 Month-ending,Number of Infant Deaths,21000
+UNITED STATES,2020,February,12 Month-ending,Number of Infant Deaths,21000
+UNITED STATES,2020,March,12 Month-ending,Number of Infant Deaths,20800
+UNITED STATES,2020,April,12 Month-ending,Number of Infant Deaths,20600
+UNITED STATES,2020,May,12 Month-ending,Number of Infant Deaths,20400
+UNITED STATES,2020,June,12 Month-ending,Number of Infant Deaths,20200
+ALABAMA,2019,January,Monthly,Number of Deaths,4904
+ALASKA,2019,January,Monthly,Number of Deaths,417
+ARIZONA,2019,January,Monthly,Number of Deaths,5655
+ARKANSAS,2019,January,Monthly,Number of Deaths,2974
+CALIFORNIA,2019,January,Monthly,Number of Deaths,24885
+COLORADO,2019,January,Monthly,Number of Deaths,3539
+CONNECTICUT,2019,January,Monthly,Number of Deaths,2897
+DELAWARE,2019,January,Monthly,Number of Deaths,848
+DISTRICT OF COLUMBIA,2019,January,Monthly,Number of Deaths,425
+FLORIDA,2019,January,Monthly,Number of Deaths,18372
+GEORGIA,2019,January,Monthly,Number of Deaths,7746
+HAWAII,2019,January,Monthly,Number of Deaths,1020
+IDAHO,2019,January,Monthly,Number of Deaths,1200
+ILLINOIS,2019,January,Monthly,Number of Deaths,9749
+INDIANA,2019,January,Monthly,Number of Deaths,5817
+IOWA,2019,January,Monthly,Number of Deaths,2750
+KANSAS,2019,January,Monthly,Number of Deaths,2515
+KENTUCKY,2019,January,Monthly,Number of Deaths,4384
+LOUISIANA,2019,January,Monthly,Number of Deaths,4131
+MAINE,2019,January,Monthly,Number of Deaths,1345
+MARYLAND,2019,January,Monthly,Number of Deaths,4573
+MASSACHUSETTS,2019,January,Monthly,Number of Deaths,5545
+MICHIGAN,2019,January,Monthly,Number of Deaths,8730
+MINNESOTA,2019,January,Monthly,Number of Deaths,4101
+MISSISSIPPI,2019,January,Monthly,Number of Deaths,2880
+MISSOURI,2019,January,Monthly,Number of Deaths,5569
+MONTANA,2019,January,Monthly,Number of Deaths,954
+NEBRASKA,2019,January,Monthly,Number of Deaths,1595
+NEVADA,2019,January,Monthly,Number of Deaths,2318
+NEW HAMPSHIRE,2019,January,Monthly,Number of Deaths,1147
+NEW JERSEY,2019,January,Monthly,Number of Deaths,6893
+NEW MEXICO,2019,January,Monthly,Number of Deaths,1853
+NEW YORK,2019,January,Monthly,Number of Deaths,14421
+NORTH CAROLINA,2019,January,Monthly,Number of Deaths,8362
+NORTH DAKOTA,2019,January,Monthly,Number of Deaths,572
+OHIO,2019,January,Monthly,Number of Deaths,11320
+OKLAHOMA,2019,January,Monthly,Number of Deaths,3694
+OREGON,2019,January,Monthly,Number of Deaths,3249
+PENNSYLVANIA,2019,January,Monthly,Number of Deaths,12278
+RHODE ISLAND,2019,January,Monthly,Number of Deaths,988
+SOUTH CAROLINA,2019,January,Monthly,Number of Deaths,4550
+SOUTH DAKOTA,2019,January,Monthly,Number of Deaths,721
+TENNESSEE,2019,January,Monthly,Number of Deaths,6281
+TEXAS,2019,January,Monthly,Number of Deaths,18424
+UTAH,2019,January,Monthly,Number of Deaths,1717
+VERMONT,2019,January,Monthly,Number of Deaths,518
+VIRGINIA,2019,January,Monthly,Number of Deaths,6133
+WASHINGTON,2019,January,Monthly,Number of Deaths,5233
+WEST VIRGINIA,2019,January,Monthly,Number of Deaths,2196
+WISCONSIN,2019,January,Monthly,Number of Deaths,4839
+WYOMING,2019,January,Monthly,Number of Deaths,444
+PUERTO RICO,2019,January,Monthly,Number of Deaths,2816
+ALABAMA,2019,February,Monthly,Number of Deaths,4416
+ALASKA,2019,February,Monthly,Number of Deaths,373
+ARIZONA,2019,February,Monthly,Number of Deaths,4841
+ARKANSAS,2019,February,Monthly,Number of Deaths,2786
+CALIFORNIA,2019,February,Monthly,Number of Deaths,22734
+COLORADO,2019,February,Monthly,Number of Deaths,3204
+CONNECTICUT,2019,February,Monthly,Number of Deaths,2681
+DELAWARE,2019,February,Monthly,Number of Deaths,734
+DISTRICT OF COLUMBIA,2019,February,Monthly,Number of Deaths,386
+FLORIDA,2019,February,Monthly,Number of Deaths,16952
+GEORGIA,2019,February,Monthly,Number of Deaths,6687
+HAWAII,2019,February,Monthly,Number of Deaths,929
+IDAHO,2019,February,Monthly,Number of Deaths,1241
+ILLINOIS,2019,February,Monthly,Number of Deaths,8924
+INDIANA,2019,February,Monthly,Number of Deaths,5374
+IOWA,2019,February,Monthly,Number of Deaths,2492
+KANSAS,2019,February,Monthly,Number of Deaths,2252
+KENTUCKY,2019,February,Monthly,Number of Deaths,3971
+LOUISIANA,2019,February,Monthly,Number of Deaths,3749
+MAINE,2019,February,Monthly,Number of Deaths,1197
+MARYLAND,2019,February,Monthly,Number of Deaths,4068
+MASSACHUSETTS,2019,February,Monthly,Number of Deaths,4886
+MICHIGAN,2019,February,Monthly,Number of Deaths,7820
+MINNESOTA,2019,February,Monthly,Number of Deaths,3622
+MISSISSIPPI,2019,February,Monthly,Number of Deaths,2751
+MISSOURI,2019,February,Monthly,Number of Deaths,5122
+MONTANA,2019,February,Monthly,Number of Deaths,880
+NEBRASKA,2019,February,Monthly,Number of Deaths,1390
+NEVADA,2019,February,Monthly,Number of Deaths,2101
+NEW HAMPSHIRE,2019,February,Monthly,Number of Deaths,1071
+NEW JERSEY,2019,February,Monthly,Number of Deaths,6335
+NEW MEXICO,2019,February,Monthly,Number of Deaths,1568
+NEW YORK,2019,February,Monthly,Number of Deaths,12790
+NORTH CAROLINA,2019,February,Monthly,Number of Deaths,8108
+NORTH DAKOTA,2019,February,Monthly,Number of Deaths,509
+OHIO,2019,February,Monthly,Number of Deaths,9711
+OKLAHOMA,2019,February,Monthly,Number of Deaths,3424
+OREGON,2019,February,Monthly,Number of Deaths,2956
+PENNSYLVANIA,2019,February,Monthly,Number of Deaths,10954
+RHODE ISLAND,2019,February,Monthly,Number of Deaths,809
+SOUTH CAROLINA,2019,February,Monthly,Number of Deaths,4157
+SOUTH DAKOTA,2019,February,Monthly,Number of Deaths,645
+TENNESSEE,2019,February,Monthly,Number of Deaths,5867
+TEXAS,2019,February,Monthly,Number of Deaths,16313
+UTAH,2019,February,Monthly,Number of Deaths,1469
+VERMONT,2019,February,Monthly,Number of Deaths,478
+VIRGINIA,2019,February,Monthly,Number of Deaths,5764
+WASHINGTON,2019,February,Monthly,Number of Deaths,4828
+WEST VIRGINIA,2019,February,Monthly,Number of Deaths,1873
+WISCONSIN,2019,February,Monthly,Number of Deaths,4213
+WYOMING,2019,February,Monthly,Number of Deaths,377
+PUERTO RICO,2019,February,Monthly,Number of Deaths,2415
+ALABAMA,2019,March,Monthly,Number of Deaths,4765
+ALASKA,2019,March,Monthly,Number of Deaths,420
+ARIZONA,2019,March,Monthly,Number of Deaths,5484
+ARKANSAS,2019,March,Monthly,Number of Deaths,3060
+CALIFORNIA,2019,March,Monthly,Number of Deaths,24662
+COLORADO,2019,March,Monthly,Number of Deaths,3536
+CONNECTICUT,2019,March,Monthly,Number of Deaths,2909
+DELAWARE,2019,March,Monthly,Number of Deaths,827
+DISTRICT OF COLUMBIA,2019,March,Monthly,Number of Deaths,394
+FLORIDA,2019,March,Monthly,Number of Deaths,18466
+GEORGIA,2019,March,Monthly,Number of Deaths,7527
+HAWAII,2019,March,Monthly,Number of Deaths,1102
+IDAHO,2019,March,Monthly,Number of Deaths,1272
+ILLINOIS,2019,March,Monthly,Number of Deaths,9608
+INDIANA,2019,March,Monthly,Number of Deaths,5861
+IOWA,2019,March,Monthly,Number of Deaths,2715
+KANSAS,2019,March,Monthly,Number of Deaths,2539
+KENTUCKY,2019,March,Monthly,Number of Deaths,4468
+LOUISIANA,2019,March,Monthly,Number of Deaths,4078
+MAINE,2019,March,Monthly,Number of Deaths,1403
+MARYLAND,2019,March,Monthly,Number of Deaths,4636
+MASSACHUSETTS,2019,March,Monthly,Number of Deaths,5182
+MICHIGAN,2019,March,Monthly,Number of Deaths,8703
+MINNESOTA,2019,March,Monthly,Number of Deaths,3811
+MISSISSIPPI,2019,March,Monthly,Number of Deaths,2843
+MISSOURI,2019,March,Monthly,Number of Deaths,5575
+MONTANA,2019,March,Monthly,Number of Deaths,933
+NEBRASKA,2019,March,Monthly,Number of Deaths,1460
+NEVADA,2019,March,Monthly,Number of Deaths,2251
+NEW HAMPSHIRE,2019,March,Monthly,Number of Deaths,1114
+NEW JERSEY,2019,March,Monthly,Number of Deaths,6717
+NEW MEXICO,2019,March,Monthly,Number of Deaths,1736
+NEW YORK,2019,March,Monthly,Number of Deaths,13988
+NORTH CAROLINA,2019,March,Monthly,Number of Deaths,8437
+NORTH DAKOTA,2019,March,Monthly,Number of Deaths,545
+OHIO,2019,March,Monthly,Number of Deaths,11154
+OKLAHOMA,2019,March,Monthly,Number of Deaths,3796
+OREGON,2019,March,Monthly,Number of Deaths,3417
+PENNSYLVANIA,2019,March,Monthly,Number of Deaths,12036
+RHODE ISLAND,2019,March,Monthly,Number of Deaths,936
+SOUTH CAROLINA,2019,March,Monthly,Number of Deaths,4518
+SOUTH DAKOTA,2019,March,Monthly,Number of Deaths,704
+TENNESSEE,2019,March,Monthly,Number of Deaths,6166
+TEXAS,2019,March,Monthly,Number of Deaths,18012
+UTAH,2019,March,Monthly,Number of Deaths,1693
+VERMONT,2019,March,Monthly,Number of Deaths,534
+VIRGINIA,2019,March,Monthly,Number of Deaths,6265
+WASHINGTON,2019,March,Monthly,Number of Deaths,5304
+WEST VIRGINIA,2019,March,Monthly,Number of Deaths,2132
+WISCONSIN,2019,March,Monthly,Number of Deaths,4691
+WYOMING,2019,March,Monthly,Number of Deaths,484
+PUERTO RICO,2019,March,Monthly,Number of Deaths,2495
+ALABAMA,2019,April,Monthly,Number of Deaths,4460
+ALASKA,2019,April,Monthly,Number of Deaths,353
+ARIZONA,2019,April,Monthly,Number of Deaths,5126
+ARKANSAS,2019,April,Monthly,Number of Deaths,2715
+CALIFORNIA,2019,April,Monthly,Number of Deaths,22253
+COLORADO,2019,April,Monthly,Number of Deaths,3194
+CONNECTICUT,2019,April,Monthly,Number of Deaths,2657
+DELAWARE,2019,April,Monthly,Number of Deaths,698
+DISTRICT OF COLUMBIA,2019,April,Monthly,Number of Deaths,403
+FLORIDA,2019,April,Monthly,Number of Deaths,17671
+GEORGIA,2019,April,Monthly,Number of Deaths,7137
+HAWAII,2019,April,Monthly,Number of Deaths,963
+IDAHO,2019,April,Monthly,Number of Deaths,1228
+ILLINOIS,2019,April,Monthly,Number of Deaths,8872
+INDIANA,2019,April,Monthly,Number of Deaths,5437
+IOWA,2019,April,Monthly,Number of Deaths,2522
+KANSAS,2019,April,Monthly,Number of Deaths,2201
+KENTUCKY,2019,April,Monthly,Number of Deaths,4108
+LOUISIANA,2019,April,Monthly,Number of Deaths,3706
+MAINE,2019,April,Monthly,Number of Deaths,1271
+MARYLAND,2019,April,Monthly,Number of Deaths,4241
+MASSACHUSETTS,2019,April,Monthly,Number of Deaths,4888
+MICHIGAN,2019,April,Monthly,Number of Deaths,8100
+MINNESOTA,2019,April,Monthly,Number of Deaths,3621
+MISSISSIPPI,2019,April,Monthly,Number of Deaths,2693
+MISSOURI,2019,April,Monthly,Number of Deaths,5020
+MONTANA,2019,April,Monthly,Number of Deaths,875
+NEBRASKA,2019,April,Monthly,Number of Deaths,1413
+NEVADA,2019,April,Monthly,Number of Deaths,2215
+NEW HAMPSHIRE,2019,April,Monthly,Number of Deaths,1017
+NEW JERSEY,2019,April,Monthly,Number of Deaths,5954
+NEW MEXICO,2019,April,Monthly,Number of Deaths,1589
+NEW YORK,2019,April,Monthly,Number of Deaths,12723
+NORTH CAROLINA,2019,April,Monthly,Number of Deaths,7960
+NORTH DAKOTA,2019,April,Monthly,Number of Deaths,581
+OHIO,2019,April,Monthly,Number of Deaths,10193
+OKLAHOMA,2019,April,Monthly,Number of Deaths,3316
+OREGON,2019,April,Monthly,Number of Deaths,3083
+PENNSYLVANIA,2019,April,Monthly,Number of Deaths,11054
+RHODE ISLAND,2019,April,Monthly,Number of Deaths,825
+SOUTH CAROLINA,2019,April,Monthly,Number of Deaths,4057
+SOUTH DAKOTA,2019,April,Monthly,Number of Deaths,703
+TENNESSEE,2019,April,Monthly,Number of Deaths,6108
+TEXAS,2019,April,Monthly,Number of Deaths,16541
+UTAH,2019,April,Monthly,Number of Deaths,1524
+VERMONT,2019,April,Monthly,Number of Deaths,537
+VIRGINIA,2019,April,Monthly,Number of Deaths,5789
+WASHINGTON,2019,April,Monthly,Number of Deaths,4822
+WEST VIRGINIA,2019,April,Monthly,Number of Deaths,1975
+WISCONSIN,2019,April,Monthly,Number of Deaths,4443
+WYOMING,2019,April,Monthly,Number of Deaths,373
+PUERTO RICO,2019,April,Monthly,Number of Deaths,2331
+ALABAMA,2019,May,Monthly,Number of Deaths,4559
+ALASKA,2019,May,Monthly,Number of Deaths,401
+ARIZONA,2019,May,Monthly,Number of Deaths,5098
+ARKANSAS,2019,May,Monthly,Number of Deaths,2686
+CALIFORNIA,2019,May,Monthly,Number of Deaths,22334
+COLORADO,2019,May,Monthly,Number of Deaths,3341
+CONNECTICUT,2019,May,Monthly,Number of Deaths,2538
+DELAWARE,2019,May,Monthly,Number of Deaths,752
+DISTRICT OF COLUMBIA,2019,May,Monthly,Number of Deaths,374
+FLORIDA,2019,May,Monthly,Number of Deaths,17602
+GEORGIA,2019,May,Monthly,Number of Deaths,7080
+HAWAII,2019,May,Monthly,Number of Deaths,999
+IDAHO,2019,May,Monthly,Number of Deaths,1237
+ILLINOIS,2019,May,Monthly,Number of Deaths,9143
+INDIANA,2019,May,Monthly,Number of Deaths,5577
+IOWA,2019,May,Monthly,Number of Deaths,2477
+KANSAS,2019,May,Monthly,Number of Deaths,2277
+KENTUCKY,2019,May,Monthly,Number of Deaths,4002
+LOUISIANA,2019,May,Monthly,Number of Deaths,3752
+MAINE,2019,May,Monthly,Number of Deaths,1197
+MARYLAND,2019,May,Monthly,Number of Deaths,4138
+MASSACHUSETTS,2019,May,Monthly,Number of Deaths,4716
+MICHIGAN,2019,May,Monthly,Number of Deaths,8281
+MINNESOTA,2019,May,Monthly,Number of Deaths,3871
+MISSISSIPPI,2019,May,Monthly,Number of Deaths,2845
+MISSOURI,2019,May,Monthly,Number of Deaths,5230
+MONTANA,2019,May,Monthly,Number of Deaths,826
+NEBRASKA,2019,May,Monthly,Number of Deaths,1387
+NEVADA,2019,May,Monthly,Number of Deaths,2064
+NEW HAMPSHIRE,2019,May,Monthly,Number of Deaths,1036
+NEW JERSEY,2019,May,Monthly,Number of Deaths,6159
+NEW MEXICO,2019,May,Monthly,Number of Deaths,1592
+NEW YORK,2019,May,Monthly,Number of Deaths,12846
+NORTH CAROLINA,2019,May,Monthly,Number of Deaths,8027
+NORTH DAKOTA,2019,May,Monthly,Number of Deaths,608
+OHIO,2019,May,Monthly,Number of Deaths,9993
+OKLAHOMA,2019,May,Monthly,Number of Deaths,3327
+OREGON,2019,May,Monthly,Number of Deaths,3148
+PENNSYLVANIA,2019,May,Monthly,Number of Deaths,10952
+RHODE ISLAND,2019,May,Monthly,Number of Deaths,845
+SOUTH CAROLINA,2019,May,Monthly,Number of Deaths,4363
+SOUTH DAKOTA,2019,May,Monthly,Number of Deaths,705
+TENNESSEE,2019,May,Monthly,Number of Deaths,6064
+TEXAS,2019,May,Monthly,Number of Deaths,16551
+UTAH,2019,May,Monthly,Number of Deaths,1633
+VERMONT,2019,May,Monthly,Number of Deaths,455
+VIRGINIA,2019,May,Monthly,Number of Deaths,5910
+WASHINGTON,2019,May,Monthly,Number of Deaths,4940
+WEST VIRGINIA,2019,May,Monthly,Number of Deaths,1990
+WISCONSIN,2019,May,Monthly,Number of Deaths,4513
+WYOMING,2019,May,Monthly,Number of Deaths,455
+PUERTO RICO,2019,May,Monthly,Number of Deaths,2541
+ALABAMA,2019,June,Monthly,Number of Deaths,4323
+ALASKA,2019,June,Monthly,Number of Deaths,390
+ARIZONA,2019,June,Monthly,Number of Deaths,4656
+ARKANSAS,2019,June,Monthly,Number of Deaths,2522
+CALIFORNIA,2019,June,Monthly,Number of Deaths,21392
+COLORADO,2019,June,Monthly,Number of Deaths,3120
+CONNECTICUT,2019,June,Monthly,Number of Deaths,2496
+DELAWARE,2019,June,Monthly,Number of Deaths,718
+DISTRICT OF COLUMBIA,2019,June,Monthly,Number of Deaths,359
+FLORIDA,2019,June,Monthly,Number of Deaths,16611
+GEORGIA,2019,June,Monthly,Number of Deaths,6736
+HAWAII,2019,June,Monthly,Number of Deaths,961
+IDAHO,2019,June,Monthly,Number of Deaths,1196
+ILLINOIS,2019,June,Monthly,Number of Deaths,8533
+INDIANA,2019,June,Monthly,Number of Deaths,5191
+IOWA,2019,June,Monthly,Number of Deaths,2441
+KANSAS,2019,June,Monthly,Number of Deaths,2207
+KENTUCKY,2019,June,Monthly,Number of Deaths,3916
+LOUISIANA,2019,June,Monthly,Number of Deaths,3692
+MAINE,2019,June,Monthly,Number of Deaths,1170
+MARYLAND,2019,June,Monthly,Number of Deaths,3992
+MASSACHUSETTS,2019,June,Monthly,Number of Deaths,4528
+MICHIGAN,2019,June,Monthly,Number of Deaths,7820
+MINNESOTA,2019,June,Monthly,Number of Deaths,3465
+MISSISSIPPI,2019,June,Monthly,Number of Deaths,2618
+MISSOURI,2019,June,Monthly,Number of Deaths,4961
+MONTANA,2019,June,Monthly,Number of Deaths,830
+NEBRASKA,2019,June,Monthly,Number of Deaths,1280
+NEVADA,2019,June,Monthly,Number of Deaths,2065
+NEW HAMPSHIRE,2019,June,Monthly,Number of Deaths,922
+NEW JERSEY,2019,June,Monthly,Number of Deaths,5888
+NEW MEXICO,2019,June,Monthly,Number of Deaths,1554
+NEW YORK,2019,June,Monthly,Number of Deaths,12217
+NORTH CAROLINA,2019,June,Monthly,Number of Deaths,7728
+NORTH DAKOTA,2019,June,Monthly,Number of Deaths,549
+OHIO,2019,June,Monthly,Number of Deaths,9757
+OKLAHOMA,2019,June,Monthly,Number of Deaths,3153
+OREGON,2019,June,Monthly,Number of Deaths,2970
+PENNSYLVANIA,2019,June,Monthly,Number of Deaths,10457
+RHODE ISLAND,2019,June,Monthly,Number of Deaths,798
+SOUTH CAROLINA,2019,June,Monthly,Number of Deaths,4117
+SOUTH DAKOTA,2019,June,Monthly,Number of Deaths,648
+TENNESSEE,2019,June,Monthly,Number of Deaths,5761
+TEXAS,2019,June,Monthly,Number of Deaths,16084
+UTAH,2019,June,Monthly,Number of Deaths,1472
+VERMONT,2019,June,Monthly,Number of Deaths,474
+VIRGINIA,2019,June,Monthly,Number of Deaths,5665
+WASHINGTON,2019,June,Monthly,Number of Deaths,4604
+WEST VIRGINIA,2019,June,Monthly,Number of Deaths,1911
+WISCONSIN,2019,June,Monthly,Number of Deaths,4190
+WYOMING,2019,June,Monthly,Number of Deaths,388
+PUERTO RICO,2019,June,Monthly,Number of Deaths,2517
+ALABAMA,2019,July,Monthly,Number of Deaths,4462
+ALASKA,2019,July,Monthly,Number of Deaths,337
+ARIZONA,2019,July,Monthly,Number of Deaths,4890
+ARKANSAS,2019,July,Monthly,Number of Deaths,2591
+CALIFORNIA,2019,July,Monthly,Number of Deaths,21267
+COLORADO,2019,July,Monthly,Number of Deaths,3155
+CONNECTICUT,2019,July,Monthly,Number of Deaths,2537
+DELAWARE,2019,July,Monthly,Number of Deaths,769
+DISTRICT OF COLUMBIA,2019,July,Monthly,Number of Deaths,407
+FLORIDA,2019,July,Monthly,Number of Deaths,16913
+GEORGIA,2019,July,Monthly,Number of Deaths,7028
+HAWAII,2019,July,Monthly,Number of Deaths,988
+IDAHO,2019,July,Monthly,Number of Deaths,1100
+ILLINOIS,2019,July,Monthly,Number of Deaths,8637
+INDIANA,2019,July,Monthly,Number of Deaths,5231
+IOWA,2019,July,Monthly,Number of Deaths,2545
+KANSAS,2019,July,Monthly,Number of Deaths,2219
+KENTUCKY,2019,July,Monthly,Number of Deaths,3914
+LOUISIANA,2019,July,Monthly,Number of Deaths,3657
+MAINE,2019,July,Monthly,Number of Deaths,1214
+MARYLAND,2019,July,Monthly,Number of Deaths,4047
+MASSACHUSETTS,2019,July,Monthly,Number of Deaths,4686
+MICHIGAN,2019,July,Monthly,Number of Deaths,8107
+MINNESOTA,2019,July,Monthly,Number of Deaths,3616
+MISSISSIPPI,2019,July,Monthly,Number of Deaths,2645
+MISSOURI,2019,July,Monthly,Number of Deaths,5218
+MONTANA,2019,July,Monthly,Number of Deaths,834
+NEBRASKA,2019,July,Monthly,Number of Deaths,1347
+NEVADA,2019,July,Monthly,Number of Deaths,2066
+NEW HAMPSHIRE,2019,July,Monthly,Number of Deaths,990
+NEW JERSEY,2019,July,Monthly,Number of Deaths,6094
+NEW MEXICO,2019,July,Monthly,Number of Deaths,1566
+NEW YORK,2019,July,Monthly,Number of Deaths,12665
+NORTH CAROLINA,2019,July,Monthly,Number of Deaths,7571
+NORTH DAKOTA,2019,July,Monthly,Number of Deaths,510
+OHIO,2019,July,Monthly,Number of Deaths,9961
+OKLAHOMA,2019,July,Monthly,Number of Deaths,3283
+OREGON,2019,July,Monthly,Number of Deaths,2986
+PENNSYLVANIA,2019,July,Monthly,Number of Deaths,10576
+RHODE ISLAND,2019,July,Monthly,Number of Deaths,817
+SOUTH CAROLINA,2019,July,Monthly,Number of Deaths,4047
+SOUTH DAKOTA,2019,July,Monthly,Number of Deaths,641
+TENNESSEE,2019,July,Monthly,Number of Deaths,5744
+TEXAS,2019,July,Monthly,Number of Deaths,16458
+UTAH,2019,July,Monthly,Number of Deaths,1523
+VERMONT,2019,July,Monthly,Number of Deaths,452
+VIRGINIA,2019,July,Monthly,Number of Deaths,5693
+WASHINGTON,2019,July,Monthly,Number of Deaths,4715
+WEST VIRGINIA,2019,July,Monthly,Number of Deaths,1827
+WISCONSIN,2019,July,Monthly,Number of Deaths,4347
+WYOMING,2019,July,Monthly,Number of Deaths,418
+PUERTO RICO,2019,July,Monthly,Number of Deaths,2490
+ALABAMA,2019,August,Monthly,Number of Deaths,4398
+ALASKA,2019,August,Monthly,Number of Deaths,382
+ARIZONA,2019,August,Monthly,Number of Deaths,4782
+ARKANSAS,2019,August,Monthly,Number of Deaths,2600
+CALIFORNIA,2019,August,Monthly,Number of Deaths,20954
+COLORADO,2019,August,Monthly,Number of Deaths,3108
+CONNECTICUT,2019,August,Monthly,Number of Deaths,2537
+DELAWARE,2019,August,Monthly,Number of Deaths,786
+DISTRICT OF COLUMBIA,2019,August,Monthly,Number of Deaths,409
+FLORIDA,2019,August,Monthly,Number of Deaths,16322
+GEORGIA,2019,August,Monthly,Number of Deaths,6929
+HAWAII,2019,August,Monthly,Number of Deaths,912
+IDAHO,2019,August,Monthly,Number of Deaths,1151
+ILLINOIS,2019,August,Monthly,Number of Deaths,8607
+INDIANA,2019,August,Monthly,Number of Deaths,5190
+IOWA,2019,August,Monthly,Number of Deaths,2440
+KANSAS,2019,August,Monthly,Number of Deaths,2122
+KENTUCKY,2019,August,Monthly,Number of Deaths,3882
+LOUISIANA,2019,August,Monthly,Number of Deaths,3747
+MAINE,2019,August,Monthly,Number of Deaths,1219
+MARYLAND,2019,August,Monthly,Number of Deaths,4040
+MASSACHUSETTS,2019,August,Monthly,Number of Deaths,4629
+MICHIGAN,2019,August,Monthly,Number of Deaths,7923
+MINNESOTA,2019,August,Monthly,Number of Deaths,3778
+MISSISSIPPI,2019,August,Monthly,Number of Deaths,2653
+MISSOURI,2019,August,Monthly,Number of Deaths,5014
+MONTANA,2019,August,Monthly,Number of Deaths,853
+NEBRASKA,2019,August,Monthly,Number of Deaths,1361
+NEVADA,2019,August,Monthly,Number of Deaths,2080
+NEW HAMPSHIRE,2019,August,Monthly,Number of Deaths,1048
+NEW JERSEY,2019,August,Monthly,Number of Deaths,5945
+NEW MEXICO,2019,August,Monthly,Number of Deaths,1555
+NEW YORK,2019,August,Monthly,Number of Deaths,12340
+NORTH CAROLINA,2019,August,Monthly,Number of Deaths,7675
+NORTH DAKOTA,2019,August,Monthly,Number of Deaths,556
+OHIO,2019,August,Monthly,Number of Deaths,9929
+OKLAHOMA,2019,August,Monthly,Number of Deaths,3263
+OREGON,2019,August,Monthly,Number of Deaths,2930
+PENNSYLVANIA,2019,August,Monthly,Number of Deaths,10610
+RHODE ISLAND,2019,August,Monthly,Number of Deaths,839
+SOUTH CAROLINA,2019,August,Monthly,Number of Deaths,4112
+SOUTH DAKOTA,2019,August,Monthly,Number of Deaths,715
+TENNESSEE,2019,August,Monthly,Number of Deaths,5770
+TEXAS,2019,August,Monthly,Number of Deaths,16354
+UTAH,2019,August,Monthly,Number of Deaths,1479
+VERMONT,2019,August,Monthly,Number of Deaths,458
+VIRGINIA,2019,August,Monthly,Number of Deaths,5727
+WASHINGTON,2019,August,Monthly,Number of Deaths,4542
+WEST VIRGINIA,2019,August,Monthly,Number of Deaths,1826
+WISCONSIN,2019,August,Monthly,Number of Deaths,4422
+WYOMING,2019,August,Monthly,Number of Deaths,383
+PUERTO RICO,2019,August,Monthly,Number of Deaths,2411
+ALABAMA,2019,September,Monthly,Number of Deaths,4205
+ALASKA,2019,September,Monthly,Number of Deaths,372
+ARIZONA,2019,September,Monthly,Number of Deaths,4701
+ARKANSAS,2019,September,Monthly,Number of Deaths,2578
+CALIFORNIA,2019,September,Monthly,Number of Deaths,20648
+COLORADO,2019,September,Monthly,Number of Deaths,3111
+CONNECTICUT,2019,September,Monthly,Number of Deaths,2408
+DELAWARE,2019,September,Monthly,Number of Deaths,770
+DISTRICT OF COLUMBIA,2019,September,Monthly,Number of Deaths,405
+FLORIDA,2019,September,Monthly,Number of Deaths,15851
+GEORGIA,2019,September,Monthly,Number of Deaths,6776
+HAWAII,2019,September,Monthly,Number of Deaths,942
+IDAHO,2019,September,Monthly,Number of Deaths,1158
+ILLINOIS,2019,September,Monthly,Number of Deaths,8593
+INDIANA,2019,September,Monthly,Number of Deaths,5199
+IOWA,2019,September,Monthly,Number of Deaths,2418
+KANSAS,2019,September,Monthly,Number of Deaths,2231
+KENTUCKY,2019,September,Monthly,Number of Deaths,3879
+LOUISIANA,2019,September,Monthly,Number of Deaths,3572
+MAINE,2019,September,Monthly,Number of Deaths,1195
+MARYLAND,2019,September,Monthly,Number of Deaths,3878
+MASSACHUSETTS,2019,September,Monthly,Number of Deaths,4560
+MICHIGAN,2019,September,Monthly,Number of Deaths,7842
+MINNESOTA,2019,September,Monthly,Number of Deaths,3663
+MISSISSIPPI,2019,September,Monthly,Number of Deaths,2522
+MISSOURI,2019,September,Monthly,Number of Deaths,4959
+MONTANA,2019,September,Monthly,Number of Deaths,840
+NEBRASKA,2019,September,Monthly,Number of Deaths,1337
+NEVADA,2019,September,Monthly,Number of Deaths,1993
+NEW HAMPSHIRE,2019,September,Monthly,Number of Deaths,1001
+NEW JERSEY,2019,September,Monthly,Number of Deaths,5774
+NEW MEXICO,2019,September,Monthly,Number of Deaths,1596
+NEW YORK,2019,September,Monthly,Number of Deaths,12082
+NORTH CAROLINA,2019,September,Monthly,Number of Deaths,7506
+NORTH DAKOTA,2019,September,Monthly,Number of Deaths,542
+OHIO,2019,September,Monthly,Number of Deaths,9741
+OKLAHOMA,2019,September,Monthly,Number of Deaths,3188
+OREGON,2019,September,Monthly,Number of Deaths,2968
+PENNSYLVANIA,2019,September,Monthly,Number of Deaths,10343
+RHODE ISLAND,2019,September,Monthly,Number of Deaths,816
+SOUTH CAROLINA,2019,September,Monthly,Number of Deaths,4032
+SOUTH DAKOTA,2019,September,Monthly,Number of Deaths,672
+TENNESSEE,2019,September,Monthly,Number of Deaths,5648
+TEXAS,2019,September,Monthly,Number of Deaths,15767
+UTAH,2019,September,Monthly,Number of Deaths,1450
+VERMONT,2019,September,Monthly,Number of Deaths,437
+VIRGINIA,2019,September,Monthly,Number of Deaths,5496
+WASHINGTON,2019,September,Monthly,Number of Deaths,4450
+WEST VIRGINIA,2019,September,Monthly,Number of Deaths,1874
+WISCONSIN,2019,September,Monthly,Number of Deaths,4314
+WYOMING,2019,September,Monthly,Number of Deaths,446
+PUERTO RICO,2019,September,Monthly,Number of Deaths,2341
+ALABAMA,2019,October,Monthly,Number of Deaths,4375
+ALASKA,2019,October,Monthly,Number of Deaths,383
+ARIZONA,2019,October,Monthly,Number of Deaths,4794
+ARKANSAS,2019,October,Monthly,Number of Deaths,2688
+CALIFORNIA,2019,October,Monthly,Number of Deaths,22234
+COLORADO,2019,October,Monthly,Number of Deaths,3371
+CONNECTICUT,2019,October,Monthly,Number of Deaths,2596
+DELAWARE,2019,October,Monthly,Number of Deaths,741
+DISTRICT OF COLUMBIA,2019,October,Monthly,Number of Deaths,446
+FLORIDA,2019,October,Monthly,Number of Deaths,16635
+GEORGIA,2019,October,Monthly,Number of Deaths,7093
+HAWAII,2019,October,Monthly,Number of Deaths,918
+IDAHO,2019,October,Monthly,Number of Deaths,1201
+ILLINOIS,2019,October,Monthly,Number of Deaths,9343
+INDIANA,2019,October,Monthly,Number of Deaths,5590
+IOWA,2019,October,Monthly,Number of Deaths,2700
+KANSAS,2019,October,Monthly,Number of Deaths,2305
+KENTUCKY,2019,October,Monthly,Number of Deaths,4053
+LOUISIANA,2019,October,Monthly,Number of Deaths,3792
+MAINE,2019,October,Monthly,Number of Deaths,1285
+MARYLAND,2019,October,Monthly,Number of Deaths,4274
+MASSACHUSETTS,2019,October,Monthly,Number of Deaths,4926
+MICHIGAN,2019,October,Monthly,Number of Deaths,8410
+MINNESOTA,2019,October,Monthly,Number of Deaths,3864
+MISSISSIPPI,2019,October,Monthly,Number of Deaths,2679
+MISSOURI,2019,October,Monthly,Number of Deaths,5074
+MONTANA,2019,October,Monthly,Number of Deaths,860
+NEBRASKA,2019,October,Monthly,Number of Deaths,1469
+NEVADA,2019,October,Monthly,Number of Deaths,2019
+NEW HAMPSHIRE,2019,October,Monthly,Number of Deaths,1088
+NEW JERSEY,2019,October,Monthly,Number of Deaths,6239
+NEW MEXICO,2019,October,Monthly,Number of Deaths,1589
+NEW YORK,2019,October,Monthly,Number of Deaths,13234
+NORTH CAROLINA,2019,October,Monthly,Number of Deaths,7952
+NORTH DAKOTA,2019,October,Monthly,Number of Deaths,583
+OHIO,2019,October,Monthly,Number of Deaths,10229
+OKLAHOMA,2019,October,Monthly,Number of Deaths,3313
+OREGON,2019,October,Monthly,Number of Deaths,3177
+PENNSYLVANIA,2019,October,Monthly,Number of Deaths,11199
+RHODE ISLAND,2019,October,Monthly,Number of Deaths,855
+SOUTH CAROLINA,2019,October,Monthly,Number of Deaths,4223
+SOUTH DAKOTA,2019,October,Monthly,Number of Deaths,698
+TENNESSEE,2019,October,Monthly,Number of Deaths,5996
+TEXAS,2019,October,Monthly,Number of Deaths,17120
+UTAH,2019,October,Monthly,Number of Deaths,1558
+VERMONT,2019,October,Monthly,Number of Deaths,503
+VIRGINIA,2019,October,Monthly,Number of Deaths,5782
+WASHINGTON,2019,October,Monthly,Number of Deaths,4928
+WEST VIRGINIA,2019,October,Monthly,Number of Deaths,2024
+WISCONSIN,2019,October,Monthly,Number of Deaths,4777
+WYOMING,2019,October,Monthly,Number of Deaths,437
+PUERTO RICO,2019,October,Monthly,Number of Deaths,2376
+ALABAMA,2019,November,Monthly,Number of Deaths,4533
+ALASKA,2019,November,Monthly,Number of Deaths,417
+ARIZONA,2019,November,Monthly,Number of Deaths,5057
+ARKANSAS,2019,November,Monthly,Number of Deaths,2855
+CALIFORNIA,2019,November,Monthly,Number of Deaths,22142
+COLORADO,2019,November,Monthly,Number of Deaths,3264
+CONNECTICUT,2019,November,Monthly,Number of Deaths,2689
+DELAWARE,2019,November,Monthly,Number of Deaths,737
+DISTRICT OF COLUMBIA,2019,November,Monthly,Number of Deaths,429
+FLORIDA,2019,November,Monthly,Number of Deaths,17100
+GEORGIA,2019,November,Monthly,Number of Deaths,7320
+HAWAII,2019,November,Monthly,Number of Deaths,882
+IDAHO,2019,November,Monthly,Number of Deaths,1178
+ILLINOIS,2019,November,Monthly,Number of Deaths,9219
+INDIANA,2019,November,Monthly,Number of Deaths,5547
+IOWA,2019,November,Monthly,Number of Deaths,2591
+KANSAS,2019,November,Monthly,Number of Deaths,2293
+KENTUCKY,2019,November,Monthly,Number of Deaths,4059
+LOUISIANA,2019,November,Monthly,Number of Deaths,3946
+MAINE,2019,November,Monthly,Number of Deaths,1244
+MARYLAND,2019,November,Monthly,Number of Deaths,4366
+MASSACHUSETTS,2019,November,Monthly,Number of Deaths,4895
+MICHIGAN,2019,November,Monthly,Number of Deaths,8515
+MINNESOTA,2019,November,Monthly,Number of Deaths,3827
+MISSISSIPPI,2019,November,Monthly,Number of Deaths,2705
+MISSOURI,2019,November,Monthly,Number of Deaths,5325
+MONTANA,2019,November,Monthly,Number of Deaths,832
+NEBRASKA,2019,November,Monthly,Number of Deaths,1371
+NEVADA,2019,November,Monthly,Number of Deaths,2107
+NEW HAMPSHIRE,2019,November,Monthly,Number of Deaths,1064
+NEW JERSEY,2019,November,Monthly,Number of Deaths,6334
+NEW MEXICO,2019,November,Monthly,Number of Deaths,1615
+NEW YORK,2019,November,Monthly,Number of Deaths,13070
+NORTH CAROLINA,2019,November,Monthly,Number of Deaths,7846
+NORTH DAKOTA,2019,November,Monthly,Number of Deaths,585
+OHIO,2019,November,Monthly,Number of Deaths,10418
+OKLAHOMA,2019,November,Monthly,Number of Deaths,3477
+OREGON,2019,November,Monthly,Number of Deaths,3164
+PENNSYLVANIA,2019,November,Monthly,Number of Deaths,11273
+RHODE ISLAND,2019,November,Monthly,Number of Deaths,848
+SOUTH CAROLINA,2019,November,Monthly,Number of Deaths,4206
+SOUTH DAKOTA,2019,November,Monthly,Number of Deaths,719
+TENNESSEE,2019,November,Monthly,Number of Deaths,5984
+TEXAS,2019,November,Monthly,Number of Deaths,17406
+UTAH,2019,November,Monthly,Number of Deaths,1566
+VERMONT,2019,November,Monthly,Number of Deaths,507
+VIRGINIA,2019,November,Monthly,Number of Deaths,5847
+WASHINGTON,2019,November,Monthly,Number of Deaths,4738
+WEST VIRGINIA,2019,November,Monthly,Number of Deaths,1904
+WISCONSIN,2019,November,Monthly,Number of Deaths,4562
+WYOMING,2019,November,Monthly,Number of Deaths,442
+PUERTO RICO,2019,November,Monthly,Number of Deaths,2509
+ALABAMA,2019,December,Monthly,Number of Deaths,4834
+ALASKA,2019,December,Monthly,Number of Deaths,422
+ARIZONA,2019,December,Monthly,Number of Deaths,5252
+ARKANSAS,2019,December,Monthly,Number of Deaths,2950
+CALIFORNIA,2019,December,Monthly,Number of Deaths,24258
+COLORADO,2019,December,Monthly,Number of Deaths,3494
+CONNECTICUT,2019,December,Monthly,Number of Deaths,2804
+DELAWARE,2019,December,Monthly,Number of Deaths,846
+DISTRICT OF COLUMBIA,2019,December,Monthly,Number of Deaths,476
+FLORIDA,2019,December,Monthly,Number of Deaths,18566
+GEORGIA,2019,December,Monthly,Number of Deaths,7612
+HAWAII,2019,December,Monthly,Number of Deaths,1000
+IDAHO,2019,December,Monthly,Number of Deaths,1269
+ILLINOIS,2019,December,Monthly,Number of Deaths,9650
+INDIANA,2019,December,Monthly,Number of Deaths,5971
+IOWA,2019,December,Monthly,Number of Deaths,2814
+KANSAS,2019,December,Monthly,Number of Deaths,2488
+KENTUCKY,2019,December,Monthly,Number of Deaths,4451
+LOUISIANA,2019,December,Monthly,Number of Deaths,4151
+MAINE,2019,December,Monthly,Number of Deaths,1289
+MARYLAND,2019,December,Monthly,Number of Deaths,4474
+MASSACHUSETTS,2019,December,Monthly,Number of Deaths,5279
+MICHIGAN,2019,December,Monthly,Number of Deaths,8888
+MINNESOTA,2019,December,Monthly,Number of Deaths,4153
+MISSISSIPPI,2019,December,Monthly,Number of Deaths,2938
+MISSOURI,2019,December,Monthly,Number of Deaths,5435
+MONTANA,2019,December,Monthly,Number of Deaths,886
+NEBRASKA,2019,December,Monthly,Number of Deaths,1566
+NEVADA,2019,December,Monthly,Number of Deaths,2232
+NEW HAMPSHIRE,2019,December,Monthly,Number of Deaths,1168
+NEW JERSEY,2019,December,Monthly,Number of Deaths,6936
+NEW MEXICO,2019,December,Monthly,Number of Deaths,1711
+NEW YORK,2019,December,Monthly,Number of Deaths,14137
+NORTH CAROLINA,2019,December,Monthly,Number of Deaths,8576
+NORTH DAKOTA,2019,December,Monthly,Number of Deaths,603
+OHIO,2019,December,Monthly,Number of Deaths,10975
+OKLAHOMA,2019,December,Monthly,Number of Deaths,3652
+OREGON,2019,December,Monthly,Number of Deaths,3295
+PENNSYLVANIA,2019,December,Monthly,Number of Deaths,12141
+RHODE ISLAND,2019,December,Monthly,Number of Deaths,923
+SOUTH CAROLINA,2019,December,Monthly,Number of Deaths,4700
+SOUTH DAKOTA,2019,December,Monthly,Number of Deaths,684
+TENNESSEE,2019,December,Monthly,Number of Deaths,6580
+TEXAS,2019,December,Monthly,Number of Deaths,18547
+UTAH,2019,December,Monthly,Number of Deaths,1691
+VERMONT,2019,December,Monthly,Number of Deaths,499
+VIRGINIA,2019,December,Monthly,Number of Deaths,6269
+WASHINGTON,2019,December,Monthly,Number of Deaths,5095
+WEST VIRGINIA,2019,December,Monthly,Number of Deaths,2054
+WISCONSIN,2019,December,Monthly,Number of Deaths,4823
+WYOMING,2019,December,Monthly,Number of Deaths,466
+PUERTO RICO,2019,December,Monthly,Number of Deaths,2471
+ALABAMA,2020,January,Monthly,Number of Deaths,4806
+ALASKA,2020,January,Monthly,Number of Deaths,435
+ARIZONA,2020,January,Monthly,Number of Deaths,5770
+ARKANSAS,2020,January,Monthly,Number of Deaths,2987
+CALIFORNIA,2020,January,Monthly,Number of Deaths,25639
+COLORADO,2020,January,Monthly,Number of Deaths,3657
+CONNECTICUT,2020,January,Monthly,Number of Deaths,2839
+DELAWARE,2020,January,Monthly,Number of Deaths,850
+DISTRICT OF COLUMBIA,2020,January,Monthly,Number of Deaths,494
+FLORIDA,2020,January,Monthly,Number of Deaths,19236
+GEORGIA,2020,January,Monthly,Number of Deaths,7895
+HAWAII,2020,January,Monthly,Number of Deaths,1057
+IDAHO,2020,January,Monthly,Number of Deaths,1243
+ILLINOIS,2020,January,Monthly,Number of Deaths,10081
+INDIANA,2020,January,Monthly,Number of Deaths,6193
+IOWA,2020,January,Monthly,Number of Deaths,2838
+KANSAS,2020,January,Monthly,Number of Deaths,2623
+KENTUCKY,2020,January,Monthly,Number of Deaths,4549
+LOUISIANA,2020,January,Monthly,Number of Deaths,4225
+MAINE,2020,January,Monthly,Number of Deaths,1370
+MARYLAND,2020,January,Monthly,Number of Deaths,4531
+MASSACHUSETTS,2020,January,Monthly,Number of Deaths,5392
+MICHIGAN,2020,January,Monthly,Number of Deaths,9064
+MINNESOTA,2020,January,Monthly,Number of Deaths,4274
+MISSISSIPPI,2020,January,Monthly,Number of Deaths,2847
+MISSOURI,2020,January,Monthly,Number of Deaths,5734
+MONTANA,2020,January,Monthly,Number of Deaths,933
+NEBRASKA,2020,January,Monthly,Number of Deaths,1541
+NEVADA,2020,January,Monthly,Number of Deaths,2395
+NEW HAMPSHIRE,2020,January,Monthly,Number of Deaths,1132
+NEW JERSEY,2020,January,Monthly,Number of Deaths,7022
+NEW MEXICO,2020,January,Monthly,Number of Deaths,1802
+NEW YORK,2020,January,Monthly,Number of Deaths,14513
+NORTH CAROLINA,2020,January,Monthly,Number of Deaths,8642
+NORTH DAKOTA,2020,January,Monthly,Number of Deaths,602
+OHIO,2020,January,Monthly,Number of Deaths,11250
+OKLAHOMA,2020,January,Monthly,Number of Deaths,3836
+OREGON,2020,January,Monthly,Number of Deaths,3297
+PENNSYLVANIA,2020,January,Monthly,Number of Deaths,12377
+RHODE ISLAND,2020,January,Monthly,Number of Deaths,888
+SOUTH CAROLINA,2020,January,Monthly,Number of Deaths,4804
+SOUTH DAKOTA,2020,January,Monthly,Number of Deaths,717
+TENNESSEE,2020,January,Monthly,Number of Deaths,6783
+TEXAS,2020,January,Monthly,Number of Deaths,18781
+UTAH,2020,January,Monthly,Number of Deaths,1710
+VERMONT,2020,January,Monthly,Number of Deaths,515
+VIRGINIA,2020,January,Monthly,Number of Deaths,6671
+WASHINGTON,2020,January,Monthly,Number of Deaths,5363
+WEST VIRGINIA,2020,January,Monthly,Number of Deaths,2221
+WISCONSIN,2020,January,Monthly,Number of Deaths,4956
+WYOMING,2020,January,Monthly,Number of Deaths,496
+PUERTO RICO,2020,January,Monthly,Number of Deaths,2672
+ALABAMA,2020,February,Monthly,Number of Deaths,4706
+ALASKA,2020,February,Monthly,Number of Deaths,377
+ARIZONA,2020,February,Monthly,Number of Deaths,5383
+ARKANSAS,2020,February,Monthly,Number of Deaths,2865
+CALIFORNIA,2020,February,Monthly,Number of Deaths,23719
+COLORADO,2020,February,Monthly,Number of Deaths,3448
+CONNECTICUT,2020,February,Monthly,Number of Deaths,2645
+DELAWARE,2020,February,Monthly,Number of Deaths,769
+DISTRICT OF COLUMBIA,2020,February,Monthly,Number of Deaths,416
+FLORIDA,2020,February,Monthly,Number of Deaths,17980
+GEORGIA,2020,February,Monthly,Number of Deaths,7346
+HAWAII,2020,February,Monthly,Number of Deaths,1020
+IDAHO,2020,February,Monthly,Number of Deaths,1226
+ILLINOIS,2020,February,Monthly,Number of Deaths,9450
+INDIANA,2020,February,Monthly,Number of Deaths,5774
+IOWA,2020,February,Monthly,Number of Deaths,2637
+KANSAS,2020,February,Monthly,Number of Deaths,2344
+KENTUCKY,2020,February,Monthly,Number of Deaths,4087
+LOUISIANA,2020,February,Monthly,Number of Deaths,3992
+MAINE,2020,February,Monthly,Number of Deaths,1286
+MARYLAND,2020,February,Monthly,Number of Deaths,4238
+MASSACHUSETTS,2020,February,Monthly,Number of Deaths,5032
+MICHIGAN,2020,February,Monthly,Number of Deaths,8346
+MINNESOTA,2020,February,Monthly,Number of Deaths,3835
+MISSISSIPPI,2020,February,Monthly,Number of Deaths,2785
+MISSOURI,2020,February,Monthly,Number of Deaths,5385
+MONTANA,2020,February,Monthly,Number of Deaths,878
+NEBRASKA,2020,February,Monthly,Number of Deaths,1370
+NEVADA,2020,February,Monthly,Number of Deaths,2189
+NEW HAMPSHIRE,2020,February,Monthly,Number of Deaths,1044
+NEW JERSEY,2020,February,Monthly,Number of Deaths,6314
+NEW MEXICO,2020,February,Monthly,Number of Deaths,1631
+NEW YORK,2020,February,Monthly,Number of Deaths,13320
+NORTH CAROLINA,2020,February,Monthly,Number of Deaths,8238
+NORTH DAKOTA,2020,February,Monthly,Number of Deaths,581
+OHIO,2020,February,Monthly,Number of Deaths,10344
+OKLAHOMA,2020,February,Monthly,Number of Deaths,3473
+OREGON,2020,February,Monthly,Number of Deaths,3068
+PENNSYLVANIA,2020,February,Monthly,Number of Deaths,11310
+RHODE ISLAND,2020,February,Monthly,Number of Deaths,874
+SOUTH CAROLINA,2020,February,Monthly,Number of Deaths,4406
+SOUTH DAKOTA,2020,February,Monthly,Number of Deaths,681
+TENNESSEE,2020,February,Monthly,Number of Deaths,5972
+TEXAS,2020,February,Monthly,Number of Deaths,17373
+UTAH,2020,February,Monthly,Number of Deaths,1482
+VERMONT,2020,February,Monthly,Number of Deaths,521
+VIRGINIA,2020,February,Monthly,Number of Deaths,6046
+WASHINGTON,2020,February,Monthly,Number of Deaths,4779
+WEST VIRGINIA,2020,February,Monthly,Number of Deaths,2006
+WISCONSIN,2020,February,Monthly,Number of Deaths,4660
+WYOMING,2020,February,Monthly,Number of Deaths,416
+PUERTO RICO,2020,February,Monthly,Number of Deaths,2544
+ALABAMA,2020,March,Monthly,Number of Deaths,4832
+ALASKA,2020,March,Monthly,Number of Deaths,367
+ARIZONA,2020,March,Monthly,Number of Deaths,5857
+ARKANSAS,2020,March,Monthly,Number of Deaths,2904
+CALIFORNIA,2020,March,Monthly,Number of Deaths,24999
+COLORADO,2020,March,Monthly,Number of Deaths,3728
+CONNECTICUT,2020,March,Monthly,Number of Deaths,2955
+DELAWARE,2020,March,Monthly,Number of Deaths,881
+DISTRICT OF COLUMBIA,2020,March,Monthly,Number of Deaths,439
+FLORIDA,2020,March,Monthly,Number of Deaths,19432
+GEORGIA,2020,March,Monthly,Number of Deaths,7937
+HAWAII,2020,March,Monthly,Number of Deaths,1014
+IDAHO,2020,March,Monthly,Number of Deaths,1335
+ILLINOIS,2020,March,Monthly,Number of Deaths,10389
+INDIANA,2020,March,Monthly,Number of Deaths,6194
+IOWA,2020,March,Monthly,Number of Deaths,2718
+KANSAS,2020,March,Monthly,Number of Deaths,2444
+KENTUCKY,2020,March,Monthly,Number of Deaths,4340
+LOUISIANA,2020,March,Monthly,Number of Deaths,4718
+MAINE,2020,March,Monthly,Number of Deaths,1315
+MARYLAND,2020,March,Monthly,Number of Deaths,4725
+MASSACHUSETTS,2020,March,Monthly,Number of Deaths,5484
+MICHIGAN,2020,March,Monthly,Number of Deaths,9789
+MINNESOTA,2020,March,Monthly,Number of Deaths,4048
+MISSISSIPPI,2020,March,Monthly,Number of Deaths,2953
+MISSOURI,2020,March,Monthly,Number of Deaths,5620
+MONTANA,2020,March,Monthly,Number of Deaths,946
+NEBRASKA,2020,March,Monthly,Number of Deaths,1490
+NEVADA,2020,March,Monthly,Number of Deaths,2265
+NEW HAMPSHIRE,2020,March,Monthly,Number of Deaths,1139
+NEW JERSEY,2020,March,Monthly,Number of Deaths,8048
+NEW MEXICO,2020,March,Monthly,Number of Deaths,1690
+NEW YORK,2020,March,Monthly,Number of Deaths,18930
+NORTH CAROLINA,2020,March,Monthly,Number of Deaths,8756
+NORTH DAKOTA,2020,March,Monthly,Number of Deaths,587
+OHIO,2020,March,Monthly,Number of Deaths,11122
+OKLAHOMA,2020,March,Monthly,Number of Deaths,3713
+OREGON,2020,March,Monthly,Number of Deaths,3384
+PENNSYLVANIA,2020,March,Monthly,Number of Deaths,11957
+RHODE ISLAND,2020,March,Monthly,Number of Deaths,932
+SOUTH CAROLINA,2020,March,Monthly,Number of Deaths,4883
+SOUTH DAKOTA,2020,March,Monthly,Number of Deaths,732
+TENNESSEE,2020,March,Monthly,Number of Deaths,6570
+TEXAS,2020,March,Monthly,Number of Deaths,18296
+UTAH,2020,March,Monthly,Number of Deaths,1731
+VERMONT,2020,March,Monthly,Number of Deaths,595
+VIRGINIA,2020,March,Monthly,Number of Deaths,6578
+WASHINGTON,2020,March,Monthly,Number of Deaths,5433
+WEST VIRGINIA,2020,March,Monthly,Number of Deaths,2181
+WISCONSIN,2020,March,Monthly,Number of Deaths,5016
+WYOMING,2020,March,Monthly,Number of Deaths,456
+PUERTO RICO,2020,March,Monthly,Number of Deaths,2731
+ALABAMA,2020,April,Monthly,Number of Deaths,4952
+ALASKA,2020,April,Monthly,Number of Deaths,367
+ARIZONA,2020,April,Monthly,Number of Deaths,5801
+ARKANSAS,2020,April,Monthly,Number of Deaths,2742
+CALIFORNIA,2020,April,Monthly,Number of Deaths,25490
+COLORADO,2020,April,Monthly,Number of Deaths,4479
+CONNECTICUT,2020,April,Monthly,Number of Deaths,5295
+DELAWARE,2020,April,Monthly,Number of Deaths,1025
+DISTRICT OF COLUMBIA,2020,April,Monthly,Number of Deaths,730
+FLORIDA,2020,April,Monthly,Number of Deaths,18964
+GEORGIA,2020,April,Monthly,Number of Deaths,8593
+HAWAII,2020,April,Monthly,Number of Deaths,913
+IDAHO,2020,April,Monthly,Number of Deaths,1178
+ILLINOIS,2020,April,Monthly,Number of Deaths,12769
+INDIANA,2020,April,Monthly,Number of Deaths,6665
+IOWA,2020,April,Monthly,Number of Deaths,2676
+KANSAS,2020,April,Monthly,Number of Deaths,2370
+KENTUCKY,2020,April,Monthly,Number of Deaths,4302
+LOUISIANA,2020,April,Monthly,Number of Deaths,5732
+MAINE,2020,April,Monthly,Number of Deaths,1270
+MARYLAND,2020,April,Monthly,Number of Deaths,6073
+MASSACHUSETTS,2020,April,Monthly,Number of Deaths,9526
+MICHIGAN,2020,April,Monthly,Number of Deaths,13237
+MINNESOTA,2020,April,Monthly,Number of Deaths,4145
+MISSISSIPPI,2020,April,Monthly,Number of Deaths,3178
+MISSOURI,2020,April,Monthly,Number of Deaths,5801
+MONTANA,2020,April,Monthly,Number of Deaths,838
+NEBRASKA,2020,April,Monthly,Number of Deaths,1442
+NEVADA,2020,April,Monthly,Number of Deaths,2350
+NEW HAMPSHIRE,2020,April,Monthly,Number of Deaths,1148
+NEW JERSEY,2020,April,Monthly,Number of Deaths,18288
+NEW MEXICO,2020,April,Monthly,Number of Deaths,1786
+NEW YORK,2020,April,Monthly,Number of Deaths,41554
+NORTH CAROLINA,2020,April,Monthly,Number of Deaths,8644
+NORTH DAKOTA,2020,April,Monthly,Number of Deaths,600
+OHIO,2020,April,Monthly,Number of Deaths,11497
+OKLAHOMA,2020,April,Monthly,Number of Deaths,3524
+OREGON,2020,April,Monthly,Number of Deaths,3264
+PENNSYLVANIA,2020,April,Monthly,Number of Deaths,15254
+RHODE ISLAND,2020,April,Monthly,Number of Deaths,1155
+SOUTH CAROLINA,2020,April,Monthly,Number of Deaths,4668
+SOUTH DAKOTA,2020,April,Monthly,Number of Deaths,682
+TENNESSEE,2020,April,Monthly,Number of Deaths,6172
+TEXAS,2020,April,Monthly,Number of Deaths,18293
+UTAH,2020,April,Monthly,Number of Deaths,1607
+VERMONT,2020,April,Monthly,Number of Deaths,550
+VIRGINIA,2020,April,Monthly,Number of Deaths,6990
+WASHINGTON,2020,April,Monthly,Number of Deaths,5369
+WEST VIRGINIA,2020,April,Monthly,Number of Deaths,2069
+WISCONSIN,2020,April,Monthly,Number of Deaths,4891
+WYOMING,2020,April,Monthly,Number of Deaths,450
+PUERTO RICO,2020,April,Monthly,Number of Deaths,2385
+ALABAMA,2020,May,Monthly,Number of Deaths,5175
+ALASKA,2020,May,Monthly,Number of Deaths,396
+ARIZONA,2020,May,Monthly,Number of Deaths,5854
+ARKANSAS,2020,May,Monthly,Number of Deaths,2822
+CALIFORNIA,2020,May,Monthly,Number of Deaths,24801
+COLORADO,2020,May,Monthly,Number of Deaths,3791
+CONNECTICUT,2020,May,Monthly,Number of Deaths,3974
+DELAWARE,2020,May,Monthly,Number of Deaths,1095
+DISTRICT OF COLUMBIA,2020,May,Monthly,Number of Deaths,676
+FLORIDA,2020,May,Monthly,Number of Deaths,18853
+GEORGIA,2020,May,Monthly,Number of Deaths,8352
+HAWAII,2020,May,Monthly,Number of Deaths,939
+IDAHO,2020,May,Monthly,Number of Deaths,1240
+ILLINOIS,2020,May,Monthly,Number of Deaths,12590
+INDIANA,2020,May,Monthly,Number of Deaths,6541
+IOWA,2020,May,Monthly,Number of Deaths,2910
+KANSAS,2020,May,Monthly,Number of Deaths,2376
+KENTUCKY,2020,May,Monthly,Number of Deaths,4422
+LOUISIANA,2020,May,Monthly,Number of Deaths,4754
+MAINE,2020,May,Monthly,Number of Deaths,1254
+MARYLAND,2020,May,Monthly,Number of Deaths,6102
+MASSACHUSETTS,2020,May,Monthly,Number of Deaths,7612
+MICHIGAN,2020,May,Monthly,Number of Deaths,9442
+MINNESOTA,2020,May,Monthly,Number of Deaths,4513
+MISSISSIPPI,2020,May,Monthly,Number of Deaths,3402
+MISSOURI,2020,May,Monthly,Number of Deaths,5646
+MONTANA,2020,May,Monthly,Number of Deaths,830
+NEBRASKA,2020,May,Monthly,Number of Deaths,1543
+NEVADA,2020,May,Monthly,Number of Deaths,2277
+NEW HAMPSHIRE,2020,May,Monthly,Number of Deaths,1227
+NEW JERSEY,2020,May,Monthly,Number of Deaths,9729
+NEW MEXICO,2020,May,Monthly,Number of Deaths,1975
+NEW YORK,2020,May,Monthly,Number of Deaths,17967
+NORTH CAROLINA,2020,May,Monthly,Number of Deaths,8863
+NORTH DAKOTA,2020,May,Monthly,Number of Deaths,593
+OHIO,2020,May,Monthly,Number of Deaths,11671
+OKLAHOMA,2020,May,Monthly,Number of Deaths,3467
+OREGON,2020,May,Monthly,Number of Deaths,3203
+PENNSYLVANIA,2020,May,Monthly,Number of Deaths,13685
+RHODE ISLAND,2020,May,Monthly,Number of Deaths,1299
+SOUTH CAROLINA,2020,May,Monthly,Number of Deaths,4792
+SOUTH DAKOTA,2020,May,Monthly,Number of Deaths,706
+TENNESSEE,2020,May,Monthly,Number of Deaths,6356
+TEXAS,2020,May,Monthly,Number of Deaths,18437
+UTAH,2020,May,Monthly,Number of Deaths,1655
+VERMONT,2020,May,Monthly,Number of Deaths,518
+VIRGINIA,2020,May,Monthly,Number of Deaths,6800
+WASHINGTON,2020,May,Monthly,Number of Deaths,4989
+WEST VIRGINIA,2020,May,Monthly,Number of Deaths,2034
+WISCONSIN,2020,May,Monthly,Number of Deaths,4802
+WYOMING,2020,May,Monthly,Number of Deaths,433
+PUERTO RICO,2020,May,Monthly,Number of Deaths,2438
+ALABAMA,2020,June,Monthly,Number of Deaths,4957
+ALASKA,2020,June,Monthly,Number of Deaths,375
+ARIZONA,2020,June,Monthly,Number of Deaths,6457
+ARKANSAS,2020,June,Monthly,Number of Deaths,2962
+CALIFORNIA,2020,June,Monthly,Number of Deaths,23805
+COLORADO,2020,June,Monthly,Number of Deaths,3530
+CONNECTICUT,2020,June,Monthly,Number of Deaths,2560
+DELAWARE,2020,June,Monthly,Number of Deaths,787
+DISTRICT OF COLUMBIA,2020,June,Monthly,Number of Deaths,475
+FLORIDA,2020,June,Monthly,Number of Deaths,18561
+GEORGIA,2020,June,Monthly,Number of Deaths,7494
+HAWAII,2020,June,Monthly,Number of Deaths,941
+IDAHO,2020,June,Monthly,Number of Deaths,1237
+ILLINOIS,2020,June,Monthly,Number of Deaths,9999
+INDIANA,2020,June,Monthly,Number of Deaths,5847
+IOWA,2020,June,Monthly,Number of Deaths,2511
+KANSAS,2020,June,Monthly,Number of Deaths,2271
+KENTUCKY,2020,June,Monthly,Number of Deaths,4118
+LOUISIANA,2020,June,Monthly,Number of Deaths,4220
+MAINE,2020,June,Monthly,Number of Deaths,1180
+MARYLAND,2020,June,Monthly,Number of Deaths,4709
+MASSACHUSETTS,2020,June,Monthly,Number of Deaths,4729
+MICHIGAN,2020,June,Monthly,Number of Deaths,8357
+MINNESOTA,2020,June,Monthly,Number of Deaths,4018
+MISSISSIPPI,2020,June,Monthly,Number of Deaths,3148
+MISSOURI,2020,June,Monthly,Number of Deaths,5155
+MONTANA,2020,June,Monthly,Number of Deaths,837
+NEBRASKA,2020,June,Monthly,Number of Deaths,1402
+NEVADA,2020,June,Monthly,Number of Deaths,2242
+NEW HAMPSHIRE,2020,June,Monthly,Number of Deaths,1139
+NEW JERSEY,2020,June,Monthly,Number of Deaths,6371
+NEW MEXICO,2020,June,Monthly,Number of Deaths,1832
+NEW YORK,2020,June,Monthly,Number of Deaths,12858
+NORTH CAROLINA,2020,June,Monthly,Number of Deaths,8130
+NORTH DAKOTA,2020,June,Monthly,Number of Deaths,546
+OHIO,2020,June,Monthly,Number of Deaths,10541
+OKLAHOMA,2020,June,Monthly,Number of Deaths,3375
+OREGON,2020,June,Monthly,Number of Deaths,3062
+PENNSYLVANIA,2020,June,Monthly,Number of Deaths,11060
+RHODE ISLAND,2020,June,Monthly,Number of Deaths,920
+SOUTH CAROLINA,2020,June,Monthly,Number of Deaths,4700
+SOUTH DAKOTA,2020,June,Monthly,Number of Deaths,659
+TENNESSEE,2020,June,Monthly,Number of Deaths,6198
+TEXAS,2020,June,Monthly,Number of Deaths,18861
+UTAH,2020,June,Monthly,Number of Deaths,1628
+VERMONT,2020,June,Monthly,Number of Deaths,489
+VIRGINIA,2020,June,Monthly,Number of Deaths,6059
+WASHINGTON,2020,June,Monthly,Number of Deaths,4692
+WEST VIRGINIA,2020,June,Monthly,Number of Deaths,1901
+WISCONSIN,2020,June,Monthly,Number of Deaths,4496
+WYOMING,2020,June,Monthly,Number of Deaths,439
+PUERTO RICO,2020,June,Monthly,Number of Deaths,2406
+ALABAMA,2019,January,Monthly,Number of Live Births,5036
+ALASKA,2019,January,Monthly,Number of Live Births,772
+ARIZONA,2019,January,Monthly,Number of Live Births,6855
+ARKANSAS,2019,January,Monthly,Number of Live Births,3147
+CALIFORNIA,2019,January,Monthly,Number of Live Births,37380
+COLORADO,2019,January,Monthly,Number of Live Births,5103
+CONNECTICUT,2019,January,Monthly,Number of Live Births,2800
+DELAWARE,2019,January,Monthly,Number of Live Births,888
+DISTRICT OF COLUMBIA,2019,January,Monthly,Number of Live Births,733
+FLORIDA,2019,January,Monthly,Number of Live Births,18951
+GEORGIA,2019,January,Monthly,Number of Live Births,10731
+HAWAII,2019,January,Monthly,Number of Live Births,1392
+IDAHO,2019,January,Monthly,Number of Live Births,1707
+ILLINOIS,2019,January,Monthly,Number of Live Births,11248
+INDIANA,2019,January,Monthly,Number of Live Births,6564
+IOWA,2019,January,Monthly,Number of Live Births,3069
+KANSAS,2019,January,Monthly,Number of Live Births,2991
+KENTUCKY,2019,January,Monthly,Number of Live Births,4428
+LOUISIANA,2019,January,Monthly,Number of Live Births,5117
+MAINE,2019,January,Monthly,Number of Live Births,944
+MARYLAND,2019,January,Monthly,Number of Live Births,5776
+MASSACHUSETTS,2019,January,Monthly,Number of Live Births,5534
+MICHIGAN,2019,January,Monthly,Number of Live Births,8654
+MINNESOTA,2019,January,Monthly,Number of Live Births,5201
+MISSISSIPPI,2019,January,Monthly,Number of Live Births,3165
+MISSOURI,2019,January,Monthly,Number of Live Births,5900
+MONTANA,2019,January,Monthly,Number of Live Births,888
+NEBRASKA,2019,January,Monthly,Number of Live Births,1960
+NEVADA,2019,January,Monthly,Number of Live Births,2946
+NEW HAMPSHIRE,2019,January,Monthly,Number of Live Births,906
+NEW JERSEY,2019,January,Monthly,Number of Live Births,7960
+NEW MEXICO,2019,January,Monthly,Number of Live Births,1875
+NEW YORK,2019,January,Monthly,Number of Live Births,18339
+NORTH CAROLINA,2019,January,Monthly,Number of Live Births,10052
+NORTH DAKOTA,2019,January,Monthly,Number of Live Births,868
+OHIO,2019,January,Monthly,Number of Live Births,11036
+OKLAHOMA,2019,January,Monthly,Number of Live Births,4147
+OREGON,2019,January,Monthly,Number of Live Births,3464
+PENNSYLVANIA,2019,January,Monthly,Number of Live Births,11136
+RHODE ISLAND,2019,January,Monthly,Number of Live Births,855
+SOUTH CAROLINA,2019,January,Monthly,Number of Live Births,4936
+SOUTH DAKOTA,2019,January,Monthly,Number of Live Births,909
+TENNESSEE,2019,January,Monthly,Number of Live Births,6800
+TEXAS,2019,January,Monthly,Number of Live Births,31583
+UTAH,2019,January,Monthly,Number of Live Births,3794
+VERMONT,2019,January,Monthly,Number of Live Births,421
+VIRGINIA,2019,January,Monthly,Number of Live Births,8023
+WASHINGTON,2019,January,Monthly,Number of Live Births,6791
+WEST VIRGINIA,2019,January,Monthly,Number of Live Births,1472
+WISCONSIN,2019,January,Monthly,Number of Live Births,5082
+WYOMING,2019,January,Monthly,Number of Live Births,555
+PUERTO RICO,2019,January,Monthly,Number of Live Births,1855
+ALABAMA,2019,February,Monthly,Number of Live Births,4374
+ALASKA,2019,February,Monthly,Number of Live Births,758
+ARIZONA,2019,February,Monthly,Number of Live Births,6091
+ARKANSAS,2019,February,Monthly,Number of Live Births,2687
+CALIFORNIA,2019,February,Monthly,Number of Live Births,33936
+COLORADO,2019,February,Monthly,Number of Live Births,4671
+CONNECTICUT,2019,February,Monthly,Number of Live Births,2555
+DELAWARE,2019,February,Monthly,Number of Live Births,720
+DISTRICT OF COLUMBIA,2019,February,Monthly,Number of Live Births,642
+FLORIDA,2019,February,Monthly,Number of Live Births,16654
+GEORGIA,2019,February,Monthly,Number of Live Births,9595
+HAWAII,2019,February,Monthly,Number of Live Births,1341
+IDAHO,2019,February,Monthly,Number of Live Births,1652
+ILLINOIS,2019,February,Monthly,Number of Live Births,10589
+INDIANA,2019,February,Monthly,Number of Live Births,6095
+IOWA,2019,February,Monthly,Number of Live Births,2878
+KANSAS,2019,February,Monthly,Number of Live Births,2614
+KENTUCKY,2019,February,Monthly,Number of Live Births,3972
+LOUISIANA,2019,February,Monthly,Number of Live Births,4490
+MAINE,2019,February,Monthly,Number of Live Births,833
+MARYLAND,2019,February,Monthly,Number of Live Births,5148
+MASSACHUSETTS,2019,February,Monthly,Number of Live Births,5035
+MICHIGAN,2019,February,Monthly,Number of Live Births,8148
+MINNESOTA,2019,February,Monthly,Number of Live Births,4895
+MISSISSIPPI,2019,February,Monthly,Number of Live Births,2687
+MISSOURI,2019,February,Monthly,Number of Live Births,5308
+MONTANA,2019,February,Monthly,Number of Live Births,855
+NEBRASKA,2019,February,Monthly,Number of Live Births,1846
+NEVADA,2019,February,Monthly,Number of Live Births,2605
+NEW HAMPSHIRE,2019,February,Monthly,Number of Live Births,850
+NEW JERSEY,2019,February,Monthly,Number of Live Births,7340
+NEW MEXICO,2019,February,Monthly,Number of Live Births,1636
+NEW YORK,2019,February,Monthly,Number of Live Births,16297
+NORTH CAROLINA,2019,February,Monthly,Number of Live Births,8776
+NORTH DAKOTA,2019,February,Monthly,Number of Live Births,769
+OHIO,2019,February,Monthly,Number of Live Births,10042
+OKLAHOMA,2019,February,Monthly,Number of Live Births,3551
+OREGON,2019,February,Monthly,Number of Live Births,3230
+PENNSYLVANIA,2019,February,Monthly,Number of Live Births,9939
+RHODE ISLAND,2019,February,Monthly,Number of Live Births,757
+SOUTH CAROLINA,2019,February,Monthly,Number of Live Births,4259
+SOUTH DAKOTA,2019,February,Monthly,Number of Live Births,891
+TENNESSEE,2019,February,Monthly,Number of Live Births,5944
+TEXAS,2019,February,Monthly,Number of Live Births,27925
+UTAH,2019,February,Monthly,Number of Live Births,3531
+VERMONT,2019,February,Monthly,Number of Live Births,406
+VIRGINIA,2019,February,Monthly,Number of Live Births,7253
+WASHINGTON,2019,February,Monthly,Number of Live Births,6405
+WEST VIRGINIA,2019,February,Monthly,Number of Live Births,1308
+WISCONSIN,2019,February,Monthly,Number of Live Births,4699
+WYOMING,2019,February,Monthly,Number of Live Births,512
+PUERTO RICO,2019,February,Monthly,Number of Live Births,1588
+ALABAMA,2019,March,Monthly,Number of Live Births,4559
+ALASKA,2019,March,Monthly,Number of Live Births,879
+ARIZONA,2019,March,Monthly,Number of Live Births,6694
+ARKANSAS,2019,March,Monthly,Number of Live Births,2845
+CALIFORNIA,2019,March,Monthly,Number of Live Births,37136
+COLORADO,2019,March,Monthly,Number of Live Births,5140
+CONNECTICUT,2019,March,Monthly,Number of Live Births,2795
+DELAWARE,2019,March,Monthly,Number of Live Births,892
+DISTRICT OF COLUMBIA,2019,March,Monthly,Number of Live Births,725
+FLORIDA,2019,March,Monthly,Number of Live Births,17517
+GEORGIA,2019,March,Monthly,Number of Live Births,10177
+HAWAII,2019,March,Monthly,Number of Live Births,1352
+IDAHO,2019,March,Monthly,Number of Live Births,1829
+ILLINOIS,2019,March,Monthly,Number of Live Births,11413
+INDIANA,2019,March,Monthly,Number of Live Births,6489
+IOWA,2019,March,Monthly,Number of Live Births,3081
+KANSAS,2019,March,Monthly,Number of Live Births,2881
+KENTUCKY,2019,March,Monthly,Number of Live Births,4318
+LOUISIANA,2019,March,Monthly,Number of Live Births,4500
+MAINE,2019,March,Monthly,Number of Live Births,944
+MARYLAND,2019,March,Monthly,Number of Live Births,5721
+MASSACHUSETTS,2019,March,Monthly,Number of Live Births,5646
+MICHIGAN,2019,March,Monthly,Number of Live Births,8873
+MINNESOTA,2019,March,Monthly,Number of Live Births,5465
+MISSISSIPPI,2019,March,Monthly,Number of Live Births,2814
+MISSOURI,2019,March,Monthly,Number of Live Births,5818
+MONTANA,2019,March,Monthly,Number of Live Births,944
+NEBRASKA,2019,March,Monthly,Number of Live Births,2034
+NEVADA,2019,March,Monthly,Number of Live Births,2783
+NEW HAMPSHIRE,2019,March,Monthly,Number of Live Births,969
+NEW JERSEY,2019,March,Monthly,Number of Live Births,7979
+NEW MEXICO,2019,March,Monthly,Number of Live Births,1809
+NEW YORK,2019,March,Monthly,Number of Live Births,17972
+NORTH CAROLINA,2019,March,Monthly,Number of Live Births,9756
+NORTH DAKOTA,2019,March,Monthly,Number of Live Births,905
+OHIO,2019,March,Monthly,Number of Live Births,10904
+OKLAHOMA,2019,March,Monthly,Number of Live Births,3923
+OREGON,2019,March,Monthly,Number of Live Births,3518
+PENNSYLVANIA,2019,March,Monthly,Number of Live Births,11036
+RHODE ISLAND,2019,March,Monthly,Number of Live Births,795
+SOUTH CAROLINA,2019,March,Monthly,Number of Live Births,4563
+SOUTH DAKOTA,2019,March,Monthly,Number of Live Births,934
+TENNESSEE,2019,March,Monthly,Number of Live Births,6328
+TEXAS,2019,March,Monthly,Number of Live Births,29501
+UTAH,2019,March,Monthly,Number of Live Births,3957
+VERMONT,2019,March,Monthly,Number of Live Births,458
+VIRGINIA,2019,March,Monthly,Number of Live Births,8208
+WASHINGTON,2019,March,Monthly,Number of Live Births,7278
+WEST VIRGINIA,2019,March,Monthly,Number of Live Births,1441
+WISCONSIN,2019,March,Monthly,Number of Live Births,5215
+WYOMING,2019,March,Monthly,Number of Live Births,553
+PUERTO RICO,2019,March,Monthly,Number of Live Births,1659
+ALABAMA,2019,April,Monthly,Number of Live Births,4542
+ALASKA,2019,April,Monthly,Number of Live Births,838
+ARIZONA,2019,April,Monthly,Number of Live Births,6103
+ARKANSAS,2019,April,Monthly,Number of Live Births,2898
+CALIFORNIA,2019,April,Monthly,Number of Live Births,35066
+COLORADO,2019,April,Monthly,Number of Live Births,5064
+CONNECTICUT,2019,April,Monthly,Number of Live Births,2820
+DELAWARE,2019,April,Monthly,Number of Live Births,807
+DISTRICT OF COLUMBIA,2019,April,Monthly,Number of Live Births,670
+FLORIDA,2019,April,Monthly,Number of Live Births,17407
+GEORGIA,2019,April,Monthly,Number of Live Births,9932
+HAWAII,2019,April,Monthly,Number of Live Births,1336
+IDAHO,2019,April,Monthly,Number of Live Births,1821
+ILLINOIS,2019,April,Monthly,Number of Live Births,11374
+INDIANA,2019,April,Monthly,Number of Live Births,6497
+IOWA,2019,April,Monthly,Number of Live Births,3128
+KANSAS,2019,April,Monthly,Number of Live Births,2929
+KENTUCKY,2019,April,Monthly,Number of Live Births,4193
+LOUISIANA,2019,April,Monthly,Number of Live Births,4453
+MAINE,2019,April,Monthly,Number of Live Births,970
+MARYLAND,2019,April,Monthly,Number of Live Births,5671
+MASSACHUSETTS,2019,April,Monthly,Number of Live Births,5701
+MICHIGAN,2019,April,Monthly,Number of Live Births,8706
+MINNESOTA,2019,April,Monthly,Number of Live Births,5349
+MISSISSIPPI,2019,April,Monthly,Number of Live Births,2785
+MISSOURI,2019,April,Monthly,Number of Live Births,5875
+MONTANA,2019,April,Monthly,Number of Live Births,912
+NEBRASKA,2019,April,Monthly,Number of Live Births,2077
+NEVADA,2019,April,Monthly,Number of Live Births,2691
+NEW HAMPSHIRE,2019,April,Monthly,Number of Live Births,1000
+NEW JERSEY,2019,April,Monthly,Number of Live Births,8020
+NEW MEXICO,2019,April,Monthly,Number of Live Births,1855
+NEW YORK,2019,April,Monthly,Number of Live Births,17981
+NORTH CAROLINA,2019,April,Monthly,Number of Live Births,9305
+NORTH DAKOTA,2019,April,Monthly,Number of Live Births,906
+OHIO,2019,April,Monthly,Number of Live Births,10732
+OKLAHOMA,2019,April,Monthly,Number of Live Births,3888
+OREGON,2019,April,Monthly,Number of Live Births,3462
+PENNSYLVANIA,2019,April,Monthly,Number of Live Births,10860
+RHODE ISLAND,2019,April,Monthly,Number of Live Births,806
+SOUTH CAROLINA,2019,April,Monthly,Number of Live Births,4438
+SOUTH DAKOTA,2019,April,Monthly,Number of Live Births,960
+TENNESSEE,2019,April,Monthly,Number of Live Births,6410
+TEXAS,2019,April,Monthly,Number of Live Births,29535
+UTAH,2019,April,Monthly,Number of Live Births,3835
+VERMONT,2019,April,Monthly,Number of Live Births,435
+VIRGINIA,2019,April,Monthly,Number of Live Births,7884
+WASHINGTON,2019,April,Monthly,Number of Live Births,6951
+WEST VIRGINIA,2019,April,Monthly,Number of Live Births,1477
+WISCONSIN,2019,April,Monthly,Number of Live Births,5170
+WYOMING,2019,April,Monthly,Number of Live Births,517
+PUERTO RICO,2019,April,Monthly,Number of Live Births,1591
+ALABAMA,2019,May,Monthly,Number of Live Births,4805
+ALASKA,2019,May,Monthly,Number of Live Births,833
+ARIZONA,2019,May,Monthly,Number of Live Births,6295
+ARKANSAS,2019,May,Monthly,Number of Live Births,3011
+CALIFORNIA,2019,May,Monthly,Number of Live Births,37344
+COLORADO,2019,May,Monthly,Number of Live Births,5403
+CONNECTICUT,2019,May,Monthly,Number of Live Births,2878
+DELAWARE,2019,May,Monthly,Number of Live Births,809
+DISTRICT OF COLUMBIA,2019,May,Monthly,Number of Live Births,786
+FLORIDA,2019,May,Monthly,Number of Live Births,17742
+GEORGIA,2019,May,Monthly,Number of Live Births,10510
+HAWAII,2019,May,Monthly,Number of Live Births,1449
+IDAHO,2019,May,Monthly,Number of Live Births,1913
+ILLINOIS,2019,May,Monthly,Number of Live Births,12121
+INDIANA,2019,May,Monthly,Number of Live Births,6671
+IOWA,2019,May,Monthly,Number of Live Births,3238
+KANSAS,2019,May,Monthly,Number of Live Births,3004
+KENTUCKY,2019,May,Monthly,Number of Live Births,4444
+LOUISIANA,2019,May,Monthly,Number of Live Births,4836
+MAINE,2019,May,Monthly,Number of Live Births,1057
+MARYLAND,2019,May,Monthly,Number of Live Births,5914
+MASSACHUSETTS,2019,May,Monthly,Number of Live Births,5953
+MICHIGAN,2019,May,Monthly,Number of Live Births,9404
+MINNESOTA,2019,May,Monthly,Number of Live Births,5912
+MISSISSIPPI,2019,May,Monthly,Number of Live Births,2898
+MISSOURI,2019,May,Monthly,Number of Live Births,6184
+MONTANA,2019,May,Monthly,Number of Live Births,1001
+NEBRASKA,2019,May,Monthly,Number of Live Births,2203
+NEVADA,2019,May,Monthly,Number of Live Births,2846
+NEW HAMPSHIRE,2019,May,Monthly,Number of Live Births,1003
+NEW JERSEY,2019,May,Monthly,Number of Live Births,8392
+NEW MEXICO,2019,May,Monthly,Number of Live Births,1930
+NEW YORK,2019,May,Monthly,Number of Live Births,18879
+NORTH CAROLINA,2019,May,Monthly,Number of Live Births,9984
+NORTH DAKOTA,2019,May,Monthly,Number of Live Births,942
+OHIO,2019,May,Monthly,Number of Live Births,11363
+OKLAHOMA,2019,May,Monthly,Number of Live Births,4142
+OREGON,2019,May,Monthly,Number of Live Births,3581
+PENNSYLVANIA,2019,May,Monthly,Number of Live Births,11294
+RHODE ISLAND,2019,May,Monthly,Number of Live Births,895
+SOUTH CAROLINA,2019,May,Monthly,Number of Live Births,4839
+SOUTH DAKOTA,2019,May,Monthly,Number of Live Births,1022
+TENNESSEE,2019,May,Monthly,Number of Live Births,6896
+TEXAS,2019,May,Monthly,Number of Live Births,31432
+UTAH,2019,May,Monthly,Number of Live Births,4181
+VERMONT,2019,May,Monthly,Number of Live Births,468
+VIRGINIA,2019,May,Monthly,Number of Live Births,8345
+WASHINGTON,2019,May,Monthly,Number of Live Births,7526
+WEST VIRGINIA,2019,May,Monthly,Number of Live Births,1604
+WISCONSIN,2019,May,Monthly,Number of Live Births,5569
+WYOMING,2019,May,Monthly,Number of Live Births,626
+PUERTO RICO,2019,May,Monthly,Number of Live Births,1693
+ALABAMA,2019,June,Monthly,Number of Live Births,4478
+ALASKA,2019,June,Monthly,Number of Live Births,813
+ARIZONA,2019,June,Monthly,Number of Live Births,6160
+ARKANSAS,2019,June,Monthly,Number of Live Births,2853
+CALIFORNIA,2019,June,Monthly,Number of Live Births,35621
+COLORADO,2019,June,Monthly,Number of Live Births,5242
+CONNECTICUT,2019,June,Monthly,Number of Live Births,2842
+DELAWARE,2019,June,Monthly,Number of Live Births,855
+DISTRICT OF COLUMBIA,2019,June,Monthly,Number of Live Births,754
+FLORIDA,2019,June,Monthly,Number of Live Births,16993
+GEORGIA,2019,June,Monthly,Number of Live Births,9866
+HAWAII,2019,June,Monthly,Number of Live Births,1337
+IDAHO,2019,June,Monthly,Number of Live Births,1972
+ILLINOIS,2019,June,Monthly,Number of Live Births,11666
+INDIANA,2019,June,Monthly,Number of Live Births,6540
+IOWA,2019,June,Monthly,Number of Live Births,3145
+KANSAS,2019,June,Monthly,Number of Live Births,2876
+KENTUCKY,2019,June,Monthly,Number of Live Births,4187
+LOUISIANA,2019,June,Monthly,Number of Live Births,4424
+MAINE,2019,June,Monthly,Number of Live Births,1014
+MARYLAND,2019,June,Monthly,Number of Live Births,5695
+MASSACHUSETTS,2019,June,Monthly,Number of Live Births,5762
+MICHIGAN,2019,June,Monthly,Number of Live Births,9241
+MINNESOTA,2019,June,Monthly,Number of Live Births,5631
+MISSISSIPPI,2019,June,Monthly,Number of Live Births,2793
+MISSOURI,2019,June,Monthly,Number of Live Births,5855
+MONTANA,2019,June,Monthly,Number of Live Births,963
+NEBRASKA,2019,June,Monthly,Number of Live Births,2031
+NEVADA,2019,June,Monthly,Number of Live Births,2881
+NEW HAMPSHIRE,2019,June,Monthly,Number of Live Births,981
+NEW JERSEY,2019,June,Monthly,Number of Live Births,8344
+NEW MEXICO,2019,June,Monthly,Number of Live Births,1900
+NEW YORK,2019,June,Monthly,Number of Live Births,18535
+NORTH CAROLINA,2019,June,Monthly,Number of Live Births,9548
+NORTH DAKOTA,2019,June,Monthly,Number of Live Births,883
+OHIO,2019,June,Monthly,Number of Live Births,11144
+OKLAHOMA,2019,June,Monthly,Number of Live Births,3889
+OREGON,2019,June,Monthly,Number of Live Births,3649
+PENNSYLVANIA,2019,June,Monthly,Number of Live Births,11044
+RHODE ISLAND,2019,June,Monthly,Number of Live Births,869
+SOUTH CAROLINA,2019,June,Monthly,Number of Live Births,4436
+SOUTH DAKOTA,2019,June,Monthly,Number of Live Births,1031
+TENNESSEE,2019,June,Monthly,Number of Live Births,6336
+TEXAS,2019,June,Monthly,Number of Live Births,30128
+UTAH,2019,June,Monthly,Number of Live Births,3992
+VERMONT,2019,June,Monthly,Number of Live Births,509
+VIRGINIA,2019,June,Monthly,Number of Live Births,7812
+WASHINGTON,2019,June,Monthly,Number of Live Births,7229
+WEST VIRGINIA,2019,June,Monthly,Number of Live Births,1433
+WISCONSIN,2019,June,Monthly,Number of Live Births,5372
+WYOMING,2019,June,Monthly,Number of Live Births,550
+PUERTO RICO,2019,June,Monthly,Number of Live Births,1517
+ALABAMA,2019,July,Monthly,Number of Live Births,5068
+ALASKA,2019,July,Monthly,Number of Live Births,919
+ARIZONA,2019,July,Monthly,Number of Live Births,6966
+ARKANSAS,2019,July,Monthly,Number of Live Births,3271
+CALIFORNIA,2019,July,Monthly,Number of Live Births,39221
+COLORADO,2019,July,Monthly,Number of Live Births,5596
+CONNECTICUT,2019,July,Monthly,Number of Live Births,3047
+DELAWARE,2019,July,Monthly,Number of Live Births,912
+DISTRICT OF COLUMBIA,2019,July,Monthly,Number of Live Births,803
+FLORIDA,2019,July,Monthly,Number of Live Births,18720
+GEORGIA,2019,July,Monthly,Number of Live Births,11027
+HAWAII,2019,July,Monthly,Number of Live Births,1447
+IDAHO,2019,July,Monthly,Number of Live Births,2061
+ILLINOIS,2019,July,Monthly,Number of Live Births,12939
+INDIANA,2019,July,Monthly,Number of Live Births,7190
+IOWA,2019,July,Monthly,Number of Live Births,3449
+KANSAS,2019,July,Monthly,Number of Live Births,3247
+KENTUCKY,2019,July,Monthly,Number of Live Births,4841
+LOUISIANA,2019,July,Monthly,Number of Live Births,5173
+MAINE,2019,July,Monthly,Number of Live Births,1111
+MARYLAND,2019,July,Monthly,Number of Live Births,6245
+MASSACHUSETTS,2019,July,Monthly,Number of Live Births,6238
+MICHIGAN,2019,July,Monthly,Number of Live Births,9788
+MINNESOTA,2019,July,Monthly,Number of Live Births,6027
+MISSISSIPPI,2019,July,Monthly,Number of Live Births,3380
+MISSOURI,2019,July,Monthly,Number of Live Births,6399
+MONTANA,2019,July,Monthly,Number of Live Births,1011
+NEBRASKA,2019,July,Monthly,Number of Live Births,2191
+NEVADA,2019,July,Monthly,Number of Live Births,3106
+NEW HAMPSHIRE,2019,July,Monthly,Number of Live Births,1090
+NEW JERSEY,2019,July,Monthly,Number of Live Births,8783
+NEW MEXICO,2019,July,Monthly,Number of Live Births,2054
+NEW YORK,2019,July,Monthly,Number of Live Births,19909
+NORTH CAROLINA,2019,July,Monthly,Number of Live Births,10433
+NORTH DAKOTA,2019,July,Monthly,Number of Live Births,989
+OHIO,2019,July,Monthly,Number of Live Births,11985
+OKLAHOMA,2019,July,Monthly,Number of Live Births,4321
+OREGON,2019,July,Monthly,Number of Live Births,3727
+PENNSYLVANIA,2019,July,Monthly,Number of Live Births,12100
+RHODE ISLAND,2019,July,Monthly,Number of Live Births,886
+SOUTH CAROLINA,2019,July,Monthly,Number of Live Births,5013
+SOUTH DAKOTA,2019,July,Monthly,Number of Live Births,1012
+TENNESSEE,2019,July,Monthly,Number of Live Births,7049
+TEXAS,2019,July,Monthly,Number of Live Births,33685
+UTAH,2019,July,Monthly,Number of Live Births,4421
+VERMONT,2019,July,Monthly,Number of Live Births,493
+VIRGINIA,2019,July,Monthly,Number of Live Births,8715
+WASHINGTON,2019,July,Monthly,Number of Live Births,7754
+WEST VIRGINIA,2019,July,Monthly,Number of Live Births,1658
+WISCONSIN,2019,July,Monthly,Number of Live Births,5659
+WYOMING,2019,July,Monthly,Number of Live Births,601
+PUERTO RICO,2019,July,Monthly,Number of Live Births,1811
+ALABAMA,2019,August,Monthly,Number of Live Births,5453
+ALASKA,2019,August,Monthly,Number of Live Births,848
+ARIZONA,2019,August,Monthly,Number of Live Births,7194
+ARKANSAS,2019,August,Monthly,Number of Live Births,3262
+CALIFORNIA,2019,August,Monthly,Number of Live Births,40281
+COLORADO,2019,August,Monthly,Number of Live Births,5818
+CONNECTICUT,2019,August,Monthly,Number of Live Births,3196
+DELAWARE,2019,August,Monthly,Number of Live Births,990
+DISTRICT OF COLUMBIA,2019,August,Monthly,Number of Live Births,791
+FLORIDA,2019,August,Monthly,Number of Live Births,20009
+GEORGIA,2019,August,Monthly,Number of Live Births,11726
+HAWAII,2019,August,Monthly,Number of Live Births,1475
+IDAHO,2019,August,Monthly,Number of Live Births,2025
+ILLINOIS,2019,August,Monthly,Number of Live Births,12992
+INDIANA,2019,August,Monthly,Number of Live Births,7497
+IOWA,2019,August,Monthly,Number of Live Births,3414
+KANSAS,2019,August,Monthly,Number of Live Births,3217
+KENTUCKY,2019,August,Monthly,Number of Live Births,4931
+LOUISIANA,2019,August,Monthly,Number of Live Births,5409
+MAINE,2019,August,Monthly,Number of Live Births,1039
+MARYLAND,2019,August,Monthly,Number of Live Births,6316
+MASSACHUSETTS,2019,August,Monthly,Number of Live Births,6368
+MICHIGAN,2019,August,Monthly,Number of Live Births,9771
+MINNESOTA,2019,August,Monthly,Number of Live Births,5944
+MISSISSIPPI,2019,August,Monthly,Number of Live Births,3347
+MISSOURI,2019,August,Monthly,Number of Live Births,6682
+MONTANA,2019,August,Monthly,Number of Live Births,988
+NEBRASKA,2019,August,Monthly,Number of Live Births,2200
+NEVADA,2019,August,Monthly,Number of Live Births,3305
+NEW HAMPSHIRE,2019,August,Monthly,Number of Live Births,1067
+NEW JERSEY,2019,August,Monthly,Number of Live Births,9055
+NEW MEXICO,2019,August,Monthly,Number of Live Births,2121
+NEW YORK,2019,August,Monthly,Number of Live Births,20078
+NORTH CAROLINA,2019,August,Monthly,Number of Live Births,10914
+NORTH DAKOTA,2019,August,Monthly,Number of Live Births,940
+OHIO,2019,August,Monthly,Number of Live Births,12350
+OKLAHOMA,2019,August,Monthly,Number of Live Births,4474
+OREGON,2019,August,Monthly,Number of Live Births,3647
+PENNSYLVANIA,2019,August,Monthly,Number of Live Births,12327
+RHODE ISLAND,2019,August,Monthly,Number of Live Births,897
+SOUTH CAROLINA,2019,August,Monthly,Number of Live Births,5331
+SOUTH DAKOTA,2019,August,Monthly,Number of Live Births,1071
+TENNESSEE,2019,August,Monthly,Number of Live Births,7346
+TEXAS,2019,August,Monthly,Number of Live Births,34447
+UTAH,2019,August,Monthly,Number of Live Births,4142
+VERMONT,2019,August,Monthly,Number of Live Births,447
+VIRGINIA,2019,August,Monthly,Number of Live Births,8917
+WASHINGTON,2019,August,Monthly,Number of Live Births,7683
+WEST VIRGINIA,2019,August,Monthly,Number of Live Births,1715
+WISCONSIN,2019,August,Monthly,Number of Live Births,5765
+WYOMING,2019,August,Monthly,Number of Live Births,576
+PUERTO RICO,2019,August,Monthly,Number of Live Births,1710
+ALABAMA,2019,September,Monthly,Number of Live Births,5226
+ALASKA,2019,September,Monthly,Number of Live Births,873
+ARIZONA,2019,September,Monthly,Number of Live Births,6877
+ARKANSAS,2019,September,Monthly,Number of Live Births,3224
+CALIFORNIA,2019,September,Monthly,Number of Live Births,38693
+COLORADO,2019,September,Monthly,Number of Live Births,5473
+CONNECTICUT,2019,September,Monthly,Number of Live Births,2845
+DELAWARE,2019,September,Monthly,Number of Live Births,952
+DISTRICT OF COLUMBIA,2019,September,Monthly,Number of Live Births,766
+FLORIDA,2019,September,Monthly,Number of Live Births,19352
+GEORGIA,2019,September,Monthly,Number of Live Births,10969
+HAWAII,2019,September,Monthly,Number of Live Births,1441
+IDAHO,2019,September,Monthly,Number of Live Births,1816
+ILLINOIS,2019,September,Monthly,Number of Live Births,11752
+INDIANA,2019,September,Monthly,Number of Live Births,7114
+IOWA,2019,September,Monthly,Number of Live Births,3233
+KANSAS,2019,September,Monthly,Number of Live Births,3105
+KENTUCKY,2019,September,Monthly,Number of Live Births,4706
+LOUISIANA,2019,September,Monthly,Number of Live Births,5309
+MAINE,2019,September,Monthly,Number of Live Births,1020
+MARYLAND,2019,September,Monthly,Number of Live Births,6074
+MASSACHUSETTS,2019,September,Monthly,Number of Live Births,6013
+MICHIGAN,2019,September,Monthly,Number of Live Births,9187
+MINNESOTA,2019,September,Monthly,Number of Live Births,5592
+MISSISSIPPI,2019,September,Monthly,Number of Live Births,3224
+MISSOURI,2019,September,Monthly,Number of Live Births,6222
+MONTANA,2019,September,Monthly,Number of Live Births,946
+NEBRASKA,2019,September,Monthly,Number of Live Births,2149
+NEVADA,2019,September,Monthly,Number of Live Births,3103
+NEW HAMPSHIRE,2019,September,Monthly,Number of Live Births,1025
+NEW JERSEY,2019,September,Monthly,Number of Live Births,8748
+NEW MEXICO,2019,September,Monthly,Number of Live Births,2045
+NEW YORK,2019,September,Monthly,Number of Live Births,19255
+NORTH CAROLINA,2019,September,Monthly,Number of Live Births,10353
+NORTH DAKOTA,2019,September,Monthly,Number of Live Births,850
+OHIO,2019,September,Monthly,Number of Live Births,11656
+OKLAHOMA,2019,September,Monthly,Number of Live Births,4292
+OREGON,2019,September,Monthly,Number of Live Births,3465
+PENNSYLVANIA,2019,September,Monthly,Number of Live Births,11745
+RHODE ISLAND,2019,September,Monthly,Number of Live Births,921
+SOUTH CAROLINA,2019,September,Monthly,Number of Live Births,4894
+SOUTH DAKOTA,2019,September,Monthly,Number of Live Births,960
+TENNESSEE,2019,September,Monthly,Number of Live Births,7086
+TEXAS,2019,September,Monthly,Number of Live Births,33299
+UTAH,2019,September,Monthly,Number of Live Births,3976
+VERMONT,2019,September,Monthly,Number of Live Births,436
+VIRGINIA,2019,September,Monthly,Number of Live Births,8759
+WASHINGTON,2019,September,Monthly,Number of Live Births,7192
+WEST VIRGINIA,2019,September,Monthly,Number of Live Births,1680
+WISCONSIN,2019,September,Monthly,Number of Live Births,5420
+WYOMING,2019,September,Monthly,Number of Live Births,561
+PUERTO RICO,2019,September,Monthly,Number of Live Births,1791
+ALABAMA,2019,October,Monthly,Number of Live Births,5209
+ALASKA,2019,October,Monthly,Number of Live Births,804
+ARIZONA,2019,October,Monthly,Number of Live Births,6844
+ARKANSAS,2019,October,Monthly,Number of Live Births,3290
+CALIFORNIA,2019,October,Monthly,Number of Live Births,39304
+COLORADO,2019,October,Monthly,Number of Live Births,5489
+CONNECTICUT,2019,October,Monthly,Number of Live Births,2953
+DELAWARE,2019,October,Monthly,Number of Live Births,941
+DISTRICT OF COLUMBIA,2019,October,Monthly,Number of Live Births,783
+FLORIDA,2019,October,Monthly,Number of Live Births,19597
+GEORGIA,2019,October,Monthly,Number of Live Births,10996
+HAWAII,2019,October,Monthly,Number of Live Births,1415
+IDAHO,2019,October,Monthly,Number of Live Births,1788
+ILLINOIS,2019,October,Monthly,Number of Live Births,11858
+INDIANA,2019,October,Monthly,Number of Live Births,6966
+IOWA,2019,October,Monthly,Number of Live Births,3218
+KANSAS,2019,October,Monthly,Number of Live Births,3064
+KENTUCKY,2019,October,Monthly,Number of Live Births,4624
+LOUISIANA,2019,October,Monthly,Number of Live Births,5385
+MAINE,2019,October,Monthly,Number of Live Births,990
+MARYLAND,2019,October,Monthly,Number of Live Births,6030
+MASSACHUSETTS,2019,October,Monthly,Number of Live Births,6084
+MICHIGAN,2019,October,Monthly,Number of Live Births,9000
+MINNESOTA,2019,October,Monthly,Number of Live Births,5764
+MISSISSIPPI,2019,October,Monthly,Number of Live Births,3257
+MISSOURI,2019,October,Monthly,Number of Live Births,6286
+MONTANA,2019,October,Monthly,Number of Live Births,914
+NEBRASKA,2019,October,Monthly,Number of Live Births,2130
+NEVADA,2019,October,Monthly,Number of Live Births,3052
+NEW HAMPSHIRE,2019,October,Monthly,Number of Live Births,1086
+NEW JERSEY,2019,October,Monthly,Number of Live Births,8554
+NEW MEXICO,2019,October,Monthly,Number of Live Births,1977
+NEW YORK,2019,October,Monthly,Number of Live Births,18822
+NORTH CAROLINA,2019,October,Monthly,Number of Live Births,10160
+NORTH DAKOTA,2019,October,Monthly,Number of Live Births,838
+OHIO,2019,October,Monthly,Number of Live Births,11749
+OKLAHOMA,2019,October,Monthly,Number of Live Births,4280
+OREGON,2019,October,Monthly,Number of Live Births,3510
+PENNSYLVANIA,2019,October,Monthly,Number of Live Births,11593
+RHODE ISLAND,2019,October,Monthly,Number of Live Births,868
+SOUTH CAROLINA,2019,October,Monthly,Number of Live Births,4962
+SOUTH DAKOTA,2019,October,Monthly,Number of Live Births,986
+TENNESSEE,2019,October,Monthly,Number of Live Births,7051
+TEXAS,2019,October,Monthly,Number of Live Births,33510
+UTAH,2019,October,Monthly,Number of Live Births,4078
+VERMONT,2019,October,Monthly,Number of Live Births,440
+VIRGINIA,2019,October,Monthly,Number of Live Births,8437
+WASHINGTON,2019,October,Monthly,Number of Live Births,7015
+WEST VIRGINIA,2019,October,Monthly,Number of Live Births,1537
+WISCONSIN,2019,October,Monthly,Number of Live Births,5348
+WYOMING,2019,October,Monthly,Number of Live Births,481
+PUERTO RICO,2019,October,Monthly,Number of Live Births,1824
+ALABAMA,2019,November,Monthly,Number of Live Births,4778
+ALASKA,2019,November,Monthly,Number of Live Births,716
+ARIZONA,2019,November,Monthly,Number of Live Births,6586
+ARKANSAS,2019,November,Monthly,Number of Live Births,2898
+CALIFORNIA,2019,November,Monthly,Number of Live Births,36057
+COLORADO,2019,November,Monthly,Number of Live Births,4949
+CONNECTICUT,2019,November,Monthly,Number of Live Births,2673
+DELAWARE,2019,November,Monthly,Number of Live Births,840
+DISTRICT OF COLUMBIA,2019,November,Monthly,Number of Live Births,710
+FLORIDA,2019,November,Monthly,Number of Live Births,18133
+GEORGIA,2019,November,Monthly,Number of Live Births,10126
+HAWAII,2019,November,Monthly,Number of Live Births,1431
+IDAHO,2019,November,Monthly,Number of Live Births,1754
+ILLINOIS,2019,November,Monthly,Number of Live Births,10911
+INDIANA,2019,November,Monthly,Number of Live Births,6355
+IOWA,2019,November,Monthly,Number of Live Births,2923
+KANSAS,2019,November,Monthly,Number of Live Births,2729
+KENTUCKY,2019,November,Monthly,Number of Live Births,4197
+LOUISIANA,2019,November,Monthly,Number of Live Births,4809
+MAINE,2019,November,Monthly,Number of Live Births,924
+MARYLAND,2019,November,Monthly,Number of Live Births,5502
+MASSACHUSETTS,2019,November,Monthly,Number of Live Births,5495
+MICHIGAN,2019,November,Monthly,Number of Live Births,8530
+MINNESOTA,2019,November,Monthly,Number of Live Births,5122
+MISSISSIPPI,2019,November,Monthly,Number of Live Births,2892
+MISSOURI,2019,November,Monthly,Number of Live Births,5677
+MONTANA,2019,November,Monthly,Number of Live Births,843
+NEBRASKA,2019,November,Monthly,Number of Live Births,1951
+NEVADA,2019,November,Monthly,Number of Live Births,2744
+NEW HAMPSHIRE,2019,November,Monthly,Number of Live Births,914
+NEW JERSEY,2019,November,Monthly,Number of Live Births,7937
+NEW MEXICO,2019,November,Monthly,Number of Live Births,1885
+NEW YORK,2019,November,Monthly,Number of Live Births,17739
+NORTH CAROLINA,2019,November,Monthly,Number of Live Births,9423
+NORTH DAKOTA,2019,November,Monthly,Number of Live Births,784
+OHIO,2019,November,Monthly,Number of Live Births,10439
+OKLAHOMA,2019,November,Monthly,Number of Live Births,3910
+OREGON,2019,November,Monthly,Number of Live Births,3225
+PENNSYLVANIA,2019,November,Monthly,Number of Live Births,10434
+RHODE ISLAND,2019,November,Monthly,Number of Live Births,798
+SOUTH CAROLINA,2019,November,Monthly,Number of Live Births,4502
+SOUTH DAKOTA,2019,November,Monthly,Number of Live Births,867
+TENNESSEE,2019,November,Monthly,Number of Live Births,6266
+TEXAS,2019,November,Monthly,Number of Live Births,30514
+UTAH,2019,November,Monthly,Number of Live Births,3548
+VERMONT,2019,November,Monthly,Number of Live Births,398
+VIRGINIA,2019,November,Monthly,Number of Live Births,7963
+WASHINGTON,2019,November,Monthly,Number of Live Births,6506
+WEST VIRGINIA,2019,November,Monthly,Number of Live Births,1432
+WISCONSIN,2019,November,Monthly,Number of Live Births,4932
+WYOMING,2019,November,Monthly,Number of Live Births,475
+PUERTO RICO,2019,November,Monthly,Number of Live Births,1667
+ALABAMA,2019,December,Monthly,Number of Live Births,5107
+ALASKA,2019,December,Monthly,Number of Live Births,784
+ARIZONA,2019,December,Monthly,Number of Live Births,6711
+ARKANSAS,2019,December,Monthly,Number of Live Births,3182
+CALIFORNIA,2019,December,Monthly,Number of Live Births,36518
+COLORADO,2019,December,Monthly,Number of Live Births,5009
+CONNECTICUT,2019,December,Monthly,Number of Live Births,2745
+DELAWARE,2019,December,Monthly,Number of Live Births,949
+DISTRICT OF COLUMBIA,2019,December,Monthly,Number of Live Births,767
+FLORIDA,2019,December,Monthly,Number of Live Births,19012
+GEORGIA,2019,December,Monthly,Number of Live Births,10703
+HAWAII,2019,December,Monthly,Number of Live Births,1399
+IDAHO,2019,December,Monthly,Number of Live Births,1737
+ILLINOIS,2019,December,Monthly,Number of Live Births,11203
+INDIANA,2019,December,Monthly,Number of Live Births,6611
+IOWA,2019,December,Monthly,Number of Live Births,2978
+KANSAS,2019,December,Monthly,Number of Live Births,2956
+KENTUCKY,2019,December,Monthly,Number of Live Births,4316
+LOUISIANA,2019,December,Monthly,Number of Live Births,5050
+MAINE,2019,December,Monthly,Number of Live Births,904
+MARYLAND,2019,December,Monthly,Number of Live Births,5847
+MASSACHUSETTS,2019,December,Monthly,Number of Live Births,5416
+MICHIGAN,2019,December,Monthly,Number of Live Births,8545
+MINNESOTA,2019,December,Monthly,Number of Live Births,5109
+MISSISSIPPI,2019,December,Monthly,Number of Live Births,3216
+MISSOURI,2019,December,Monthly,Number of Live Births,5786
+MONTANA,2019,December,Monthly,Number of Live Births,875
+NEBRASKA,2019,December,Monthly,Number of Live Births,1954
+NEVADA,2019,December,Monthly,Number of Live Births,2976
+NEW HAMPSHIRE,2019,December,Monthly,Number of Live Births,934
+NEW JERSEY,2019,December,Monthly,Number of Live Births,8068
+NEW MEXICO,2019,December,Monthly,Number of Live Births,1806
+NEW YORK,2019,December,Monthly,Number of Live Births,18158
+NORTH CAROLINA,2019,December,Monthly,Number of Live Births,9949
+NORTH DAKOTA,2019,December,Monthly,Number of Live Births,789
+OHIO,2019,December,Monthly,Number of Live Births,10896
+OKLAHOMA,2019,December,Monthly,Number of Live Births,4171
+OREGON,2019,December,Monthly,Number of Live Births,3338
+PENNSYLVANIA,2019,December,Monthly,Number of Live Births,10819
+RHODE ISLAND,2019,December,Monthly,Number of Live Births,805
+SOUTH CAROLINA,2019,December,Monthly,Number of Live Births,4806
+SOUTH DAKOTA,2019,December,Monthly,Number of Live Births,943
+TENNESSEE,2019,December,Monthly,Number of Live Births,6864
+TEXAS,2019,December,Monthly,Number of Live Births,32373
+UTAH,2019,December,Monthly,Number of Live Births,3565
+VERMONT,2019,December,Monthly,Number of Live Births,418
+VIRGINIA,2019,December,Monthly,Number of Live Births,8025
+WASHINGTON,2019,December,Monthly,Number of Live Births,6652
+WEST VIRGINIA,2019,December,Monthly,Number of Live Births,1536
+WISCONSIN,2019,December,Monthly,Number of Live Births,4986
+WYOMING,2019,December,Monthly,Number of Live Births,501
+PUERTO RICO,2019,December,Monthly,Number of Live Births,1650
+ALABAMA,2020,January,Monthly,Number of Live Births,4929
+ALASKA,2020,January,Monthly,Number of Live Births,816
+ARIZONA,2020,January,Monthly,Number of Live Births,6680
+ARKANSAS,2020,January,Monthly,Number of Live Births,2992
+CALIFORNIA,2020,January,Monthly,Number of Live Births,35906
+COLORADO,2020,January,Monthly,Number of Live Births,4974
+CONNECTICUT,2020,January,Monthly,Number of Live Births,2769
+DELAWARE,2020,January,Monthly,Number of Live Births,827
+DISTRICT OF COLUMBIA,2020,January,Monthly,Number of Live Births,742
+FLORIDA,2020,January,Monthly,Number of Live Births,18229
+GEORGIA,2020,January,Monthly,Number of Live Births,10681
+HAWAII,2020,January,Monthly,Number of Live Births,1346
+IDAHO,2020,January,Monthly,Number of Live Births,1696
+ILLINOIS,2020,January,Monthly,Number of Live Births,11052
+INDIANA,2020,January,Monthly,Number of Live Births,6570
+IOWA,2020,January,Monthly,Number of Live Births,3069
+KANSAS,2020,January,Monthly,Number of Live Births,2792
+KENTUCKY,2020,January,Monthly,Number of Live Births,4321
+LOUISIANA,2020,January,Monthly,Number of Live Births,5031
+MAINE,2020,January,Monthly,Number of Live Births,876
+MARYLAND,2020,January,Monthly,Number of Live Births,5876
+MASSACHUSETTS,2020,January,Monthly,Number of Live Births,5477
+MICHIGAN,2020,January,Monthly,Number of Live Births,8639
+MINNESOTA,2020,January,Monthly,Number of Live Births,5045
+MISSISSIPPI,2020,January,Monthly,Number of Live Births,3100
+MISSOURI,2020,January,Monthly,Number of Live Births,5829
+MONTANA,2020,January,Monthly,Number of Live Births,866
+NEBRASKA,2020,January,Monthly,Number of Live Births,2036
+NEVADA,2020,January,Monthly,Number of Live Births,2759
+NEW HAMPSHIRE,2020,January,Monthly,Number of Live Births,930
+NEW JERSEY,2020,January,Monthly,Number of Live Births,8103
+NEW MEXICO,2020,January,Monthly,Number of Live Births,1808
+NEW YORK,2020,January,Monthly,Number of Live Births,17984
+NORTH CAROLINA,2020,January,Monthly,Number of Live Births,9770
+NORTH DAKOTA,2020,January,Monthly,Number of Live Births,796
+OHIO,2020,January,Monthly,Number of Live Births,10656
+OKLAHOMA,2020,January,Monthly,Number of Live Births,4044
+OREGON,2020,January,Monthly,Number of Live Births,3276
+PENNSYLVANIA,2020,January,Monthly,Number of Live Births,10869
+RHODE ISLAND,2020,January,Monthly,Number of Live Births,828
+SOUTH CAROLINA,2020,January,Monthly,Number of Live Births,4694
+SOUTH DAKOTA,2020,January,Monthly,Number of Live Births,922
+TENNESSEE,2020,January,Monthly,Number of Live Births,6578
+TEXAS,2020,January,Monthly,Number of Live Births,31519
+UTAH,2020,January,Monthly,Number of Live Births,3706
+VERMONT,2020,January,Monthly,Number of Live Births,418
+VIRGINIA,2020,January,Monthly,Number of Live Births,7996
+WASHINGTON,2020,January,Monthly,Number of Live Births,6808
+WEST VIRGINIA,2020,January,Monthly,Number of Live Births,1503
+WISCONSIN,2020,January,Monthly,Number of Live Births,4901
+WYOMING,2020,January,Monthly,Number of Live Births,506
+PUERTO RICO,2020,January,Monthly,Number of Live Births,1649
+ALABAMA,2020,February,Monthly,Number of Live Births,4463
+ALASKA,2020,February,Monthly,Number of Live Births,710
+ARIZONA,2020,February,Monthly,Number of Live Births,6262
+ARKANSAS,2020,February,Monthly,Number of Live Births,2769
+CALIFORNIA,2020,February,Monthly,Number of Live Births,33167
+COLORADO,2020,February,Monthly,Number of Live Births,4718
+CONNECTICUT,2020,February,Monthly,Number of Live Births,2480
+DELAWARE,2020,February,Monthly,Number of Live Births,783
+DISTRICT OF COLUMBIA,2020,February,Monthly,Number of Live Births,652
+FLORIDA,2020,February,Monthly,Number of Live Births,16740
+GEORGIA,2020,February,Monthly,Number of Live Births,9489
+HAWAII,2020,February,Monthly,Number of Live Births,1288
+IDAHO,2020,February,Monthly,Number of Live Births,1625
+ILLINOIS,2020,February,Monthly,Number of Live Births,10410
+INDIANA,2020,February,Monthly,Number of Live Births,6230
+IOWA,2020,February,Monthly,Number of Live Births,2844
+KANSAS,2020,February,Monthly,Number of Live Births,2694
+KENTUCKY,2020,February,Monthly,Number of Live Births,4066
+LOUISIANA,2020,February,Monthly,Number of Live Births,4434
+MAINE,2020,February,Monthly,Number of Live Births,845
+MARYLAND,2020,February,Monthly,Number of Live Births,5282
+MASSACHUSETTS,2020,February,Monthly,Number of Live Births,5205
+MICHIGAN,2020,February,Monthly,Number of Live Births,8254
+MINNESOTA,2020,February,Monthly,Number of Live Births,4926
+MISSISSIPPI,2020,February,Monthly,Number of Live Births,2691
+MISSOURI,2020,February,Monthly,Number of Live Births,5420
+MONTANA,2020,February,Monthly,Number of Live Births,872
+NEBRASKA,2020,February,Monthly,Number of Live Births,1803
+NEVADA,2020,February,Monthly,Number of Live Births,2593
+NEW HAMPSHIRE,2020,February,Monthly,Number of Live Births,859
+NEW JERSEY,2020,February,Monthly,Number of Live Births,7495
+NEW MEXICO,2020,February,Monthly,Number of Live Births,1662
+NEW YORK,2020,February,Monthly,Number of Live Births,16727
+NORTH CAROLINA,2020,February,Monthly,Number of Live Births,9091
+NORTH DAKOTA,2020,February,Monthly,Number of Live Births,805
+OHIO,2020,February,Monthly,Number of Live Births,10130
+OKLAHOMA,2020,February,Monthly,Number of Live Births,3689
+OREGON,2020,February,Monthly,Number of Live Births,3112
+PENNSYLVANIA,2020,February,Monthly,Number of Live Births,10070
+RHODE ISLAND,2020,February,Monthly,Number of Live Births,819
+SOUTH CAROLINA,2020,February,Monthly,Number of Live Births,4256
+SOUTH DAKOTA,2020,February,Monthly,Number of Live Births,876
+TENNESSEE,2020,February,Monthly,Number of Live Births,5965
+TEXAS,2020,February,Monthly,Number of Live Births,28486
+UTAH,2020,February,Monthly,Number of Live Births,3557
+VERMONT,2020,February,Monthly,Number of Live Births,364
+VIRGINIA,2020,February,Monthly,Number of Live Births,7563
+WASHINGTON,2020,February,Monthly,Number of Live Births,6519
+WEST VIRGINIA,2020,February,Monthly,Number of Live Births,1333
+WISCONSIN,2020,February,Monthly,Number of Live Births,4795
+WYOMING,2020,February,Monthly,Number of Live Births,472
+PUERTO RICO,2020,February,Monthly,Number of Live Births,1416
+ALABAMA,2020,March,Monthly,Number of Live Births,4782
+ALASKA,2020,March,Monthly,Number of Live Births,780
+ARIZONA,2020,March,Monthly,Number of Live Births,6351
+ARKANSAS,2020,March,Monthly,Number of Live Births,2956
+CALIFORNIA,2020,March,Monthly,Number of Live Births,34835
+COLORADO,2020,March,Monthly,Number of Live Births,5272
+CONNECTICUT,2020,March,Monthly,Number of Live Births,2856
+DELAWARE,2020,March,Monthly,Number of Live Births,839
+DISTRICT OF COLUMBIA,2020,March,Monthly,Number of Live Births,721
+FLORIDA,2020,March,Monthly,Number of Live Births,17215
+GEORGIA,2020,March,Monthly,Number of Live Births,10026
+HAWAII,2020,March,Monthly,Number of Live Births,1346
+IDAHO,2020,March,Monthly,Number of Live Births,1859
+ILLINOIS,2020,March,Monthly,Number of Live Births,11086
+INDIANA,2020,March,Monthly,Number of Live Births,6548
+IOWA,2020,March,Monthly,Number of Live Births,3039
+KANSAS,2020,March,Monthly,Number of Live Births,2974
+KENTUCKY,2020,March,Monthly,Number of Live Births,4278
+LOUISIANA,2020,March,Monthly,Number of Live Births,4653
+MAINE,2020,March,Monthly,Number of Live Births,956
+MARYLAND,2020,March,Monthly,Number of Live Births,5706
+MASSACHUSETTS,2020,March,Monthly,Number of Live Births,5573
+MICHIGAN,2020,March,Monthly,Number of Live Births,8736
+MINNESOTA,2020,March,Monthly,Number of Live Births,5389
+MISSISSIPPI,2020,March,Monthly,Number of Live Births,2873
+MISSOURI,2020,March,Monthly,Number of Live Births,5716
+MONTANA,2020,March,Monthly,Number of Live Births,941
+NEBRASKA,2020,March,Monthly,Number of Live Births,2132
+NEVADA,2020,March,Monthly,Number of Live Births,2807
+NEW HAMPSHIRE,2020,March,Monthly,Number of Live Births,1007
+NEW JERSEY,2020,March,Monthly,Number of Live Births,8159
+NEW MEXICO,2020,March,Monthly,Number of Live Births,1861
+NEW YORK,2020,March,Monthly,Number of Live Births,17674
+NORTH CAROLINA,2020,March,Monthly,Number of Live Births,9783
+NORTH DAKOTA,2020,March,Monthly,Number of Live Births,836
+OHIO,2020,March,Monthly,Number of Live Births,10659
+OKLAHOMA,2020,March,Monthly,Number of Live Births,3976
+OREGON,2020,March,Monthly,Number of Live Births,3383
+PENNSYLVANIA,2020,March,Monthly,Number of Live Births,10783
+RHODE ISLAND,2020,March,Monthly,Number of Live Births,868
+SOUTH CAROLINA,2020,March,Monthly,Number of Live Births,4651
+SOUTH DAKOTA,2020,March,Monthly,Number of Live Births,915
+TENNESSEE,2020,March,Monthly,Number of Live Births,6385
+TEXAS,2020,March,Monthly,Number of Live Births,30249
+UTAH,2020,March,Monthly,Number of Live Births,3996
+VERMONT,2020,March,Monthly,Number of Live Births,457
+VIRGINIA,2020,March,Monthly,Number of Live Births,7955
+WASHINGTON,2020,March,Monthly,Number of Live Births,7029
+WEST VIRGINIA,2020,March,Monthly,Number of Live Births,1418
+WISCONSIN,2020,March,Monthly,Number of Live Births,5263
+WYOMING,2020,March,Monthly,Number of Live Births,508
+PUERTO RICO,2020,March,Monthly,Number of Live Births,1402
+ALABAMA,2020,April,Monthly,Number of Live Births,4575
+ALASKA,2020,April,Monthly,Number of Live Births,759
+ARIZONA,2020,April,Monthly,Number of Live Births,5922
+ARKANSAS,2020,April,Monthly,Number of Live Births,2882
+CALIFORNIA,2020,April,Monthly,Number of Live Births,33617
+COLORADO,2020,April,Monthly,Number of Live Births,5099
+CONNECTICUT,2020,April,Monthly,Number of Live Births,2818
+DELAWARE,2020,April,Monthly,Number of Live Births,810
+DISTRICT OF COLUMBIA,2020,April,Monthly,Number of Live Births,629
+FLORIDA,2020,April,Monthly,Number of Live Births,16575
+GEORGIA,2020,April,Monthly,Number of Live Births,9721
+HAWAII,2020,April,Monthly,Number of Live Births,1299
+IDAHO,2020,April,Monthly,Number of Live Births,1813
+ILLINOIS,2020,April,Monthly,Number of Live Births,10730
+INDIANA,2020,April,Monthly,Number of Live Births,6197
+IOWA,2020,April,Monthly,Number of Live Births,2855
+KANSAS,2020,April,Monthly,Number of Live Births,2818
+KENTUCKY,2020,April,Monthly,Number of Live Births,4068
+LOUISIANA,2020,April,Monthly,Number of Live Births,4382
+MAINE,2020,April,Monthly,Number of Live Births,916
+MARYLAND,2020,April,Monthly,Number of Live Births,5610
+MASSACHUSETTS,2020,April,Monthly,Number of Live Births,5376
+MICHIGAN,2020,April,Monthly,Number of Live Births,8454
+MINNESOTA,2020,April,Monthly,Number of Live Births,5318
+MISSISSIPPI,2020,April,Monthly,Number of Live Births,2656
+MISSOURI,2020,April,Monthly,Number of Live Births,5502
+MONTANA,2020,April,Monthly,Number of Live Births,909
+NEBRASKA,2020,April,Monthly,Number of Live Births,1992
+NEVADA,2020,April,Monthly,Number of Live Births,2663
+NEW HAMPSHIRE,2020,April,Monthly,Number of Live Births,963
+NEW JERSEY,2020,April,Monthly,Number of Live Births,7872
+NEW MEXICO,2020,April,Monthly,Number of Live Births,1695
+NEW YORK,2020,April,Monthly,Number of Live Births,16866
+NORTH CAROLINA,2020,April,Monthly,Number of Live Births,9296
+NORTH DAKOTA,2020,April,Monthly,Number of Live Births,823
+OHIO,2020,April,Monthly,Number of Live Births,10366
+OKLAHOMA,2020,April,Monthly,Number of Live Births,3800
+OREGON,2020,April,Monthly,Number of Live Births,3368
+PENNSYLVANIA,2020,April,Monthly,Number of Live Births,10536
+RHODE ISLAND,2020,April,Monthly,Number of Live Births,836
+SOUTH CAROLINA,2020,April,Monthly,Number of Live Births,4358
+SOUTH DAKOTA,2020,April,Monthly,Number of Live Births,952
+TENNESSEE,2020,April,Monthly,Number of Live Births,6218
+TEXAS,2020,April,Monthly,Number of Live Births,28780
+UTAH,2020,April,Monthly,Number of Live Births,3904
+VERMONT,2020,April,Monthly,Number of Live Births,416
+VIRGINIA,2020,April,Monthly,Number of Live Births,7773
+WASHINGTON,2020,April,Monthly,Number of Live Births,6839
+WEST VIRGINIA,2020,April,Monthly,Number of Live Births,1415
+WISCONSIN,2020,April,Monthly,Number of Live Births,4977
+WYOMING,2020,April,Monthly,Number of Live Births,525
+PUERTO RICO,2020,April,Monthly,Number of Live Births,1358
+ALABAMA,2020,May,Monthly,Number of Live Births,4527
+ALASKA,2020,May,Monthly,Number of Live Births,827
+ARIZONA,2020,May,Monthly,Number of Live Births,6012
+ARKANSAS,2020,May,Monthly,Number of Live Births,2832
+CALIFORNIA,2020,May,Monthly,Number of Live Births,34727
+COLORADO,2020,May,Monthly,Number of Live Births,5265
+CONNECTICUT,2020,May,Monthly,Number of Live Births,2903
+DELAWARE,2020,May,Monthly,Number of Live Births,890
+DISTRICT OF COLUMBIA,2020,May,Monthly,Number of Live Births,694
+FLORIDA,2020,May,Monthly,Number of Live Births,16902
+GEORGIA,2020,May,Monthly,Number of Live Births,9982
+HAWAII,2020,May,Monthly,Number of Live Births,1323
+IDAHO,2020,May,Monthly,Number of Live Births,1858
+ILLINOIS,2020,May,Monthly,Number of Live Births,11463
+INDIANA,2020,May,Monthly,Number of Live Births,6603
+IOWA,2020,May,Monthly,Number of Live Births,3212
+KANSAS,2020,May,Monthly,Number of Live Births,2895
+KENTUCKY,2020,May,Monthly,Number of Live Births,4182
+LOUISIANA,2020,May,Monthly,Number of Live Births,4551
+MAINE,2020,May,Monthly,Number of Live Births,1018
+MARYLAND,2020,May,Monthly,Number of Live Births,5765
+MASSACHUSETTS,2020,May,Monthly,Number of Live Births,5815
+MICHIGAN,2020,May,Monthly,Number of Live Births,8903
+MINNESOTA,2020,May,Monthly,Number of Live Births,5569
+MISSISSIPPI,2020,May,Monthly,Number of Live Births,2764
+MISSOURI,2020,May,Monthly,Number of Live Births,5715
+MONTANA,2020,May,Monthly,Number of Live Births,940
+NEBRASKA,2020,May,Monthly,Number of Live Births,2017
+NEVADA,2020,May,Monthly,Number of Live Births,2727
+NEW HAMPSHIRE,2020,May,Monthly,Number of Live Births,1025
+NEW JERSEY,2020,May,Monthly,Number of Live Births,8335
+NEW MEXICO,2020,May,Monthly,Number of Live Births,1775
+NEW YORK,2020,May,Monthly,Number of Live Births,17595
+NORTH CAROLINA,2020,May,Monthly,Number of Live Births,9665
+NORTH DAKOTA,2020,May,Monthly,Number of Live Births,884
+OHIO,2020,May,Monthly,Number of Live Births,10955
+OKLAHOMA,2020,May,Monthly,Number of Live Births,3763
+OREGON,2020,May,Monthly,Number of Live Births,3483
+PENNSYLVANIA,2020,May,Monthly,Number of Live Births,11147
+RHODE ISLAND,2020,May,Monthly,Number of Live Births,886
+SOUTH CAROLINA,2020,May,Monthly,Number of Live Births,4498
+SOUTH DAKOTA,2020,May,Monthly,Number of Live Births,941
+TENNESSEE,2020,May,Monthly,Number of Live Births,6477
+TEXAS,2020,May,Monthly,Number of Live Births,29183
+UTAH,2020,May,Monthly,Number of Live Births,3909
+VERMONT,2020,May,Monthly,Number of Live Births,462
+VIRGINIA,2020,May,Monthly,Number of Live Births,7990
+WASHINGTON,2020,May,Monthly,Number of Live Births,7097
+WEST VIRGINIA,2020,May,Monthly,Number of Live Births,1418
+WISCONSIN,2020,May,Monthly,Number of Live Births,5359
+WYOMING,2020,May,Monthly,Number of Live Births,533
+PUERTO RICO,2020,May,Monthly,Number of Live Births,1394
+ALABAMA,2020,June,Monthly,Number of Live Births,4792
+ALASKA,2020,June,Monthly,Number of Live Births,805
+ARIZONA,2020,June,Monthly,Number of Live Births,6030
+ARKANSAS,2020,June,Monthly,Number of Live Births,2877
+CALIFORNIA,2020,June,Monthly,Number of Live Births,34198
+COLORADO,2020,June,Monthly,Number of Live Births,5168
+CONNECTICUT,2020,June,Monthly,Number of Live Births,2896
+DELAWARE,2020,June,Monthly,Number of Live Births,882
+DISTRICT OF COLUMBIA,2020,June,Monthly,Number of Live Births,732
+FLORIDA,2020,June,Monthly,Number of Live Births,16922
+GEORGIA,2020,June,Monthly,Number of Live Births,10075
+HAWAII,2020,June,Monthly,Number of Live Births,1188
+IDAHO,2020,June,Monthly,Number of Live Births,1832
+ILLINOIS,2020,June,Monthly,Number of Live Births,11195
+INDIANA,2020,June,Monthly,Number of Live Births,6410
+IOWA,2020,June,Monthly,Number of Live Births,3033
+KANSAS,2020,June,Monthly,Number of Live Births,2845
+KENTUCKY,2020,June,Monthly,Number of Live Births,4309
+LOUISIANA,2020,June,Monthly,Number of Live Births,4514
+MAINE,2020,June,Monthly,Number of Live Births,1079
+MARYLAND,2020,June,Monthly,Number of Live Births,5773
+MASSACHUSETTS,2020,June,Monthly,Number of Live Births,5921
+MICHIGAN,2020,June,Monthly,Number of Live Births,8890
+MINNESOTA,2020,June,Monthly,Number of Live Births,5545
+MISSISSIPPI,2020,June,Monthly,Number of Live Births,2985
+MISSOURI,2020,June,Monthly,Number of Live Births,5816
+MONTANA,2020,June,Monthly,Number of Live Births,968
+NEBRASKA,2020,June,Monthly,Number of Live Births,2001
+NEVADA,2020,June,Monthly,Number of Live Births,2738
+NEW HAMPSHIRE,2020,June,Monthly,Number of Live Births,1025
+NEW JERSEY,2020,June,Monthly,Number of Live Births,8237
+NEW MEXICO,2020,June,Monthly,Number of Live Births,1874
+NEW YORK,2020,June,Monthly,Number of Live Births,17945
+NORTH CAROLINA,2020,June,Monthly,Number of Live Births,9681
+NORTH DAKOTA,2020,June,Monthly,Number of Live Births,859
+OHIO,2020,June,Monthly,Number of Live Births,11016
+OKLAHOMA,2020,June,Monthly,Number of Live Births,3783
+OREGON,2020,June,Monthly,Number of Live Births,3401
+PENNSYLVANIA,2020,June,Monthly,Number of Live Births,11097
+RHODE ISLAND,2020,June,Monthly,Number of Live Births,843
+SOUTH CAROLINA,2020,June,Monthly,Number of Live Births,4578
+SOUTH DAKOTA,2020,June,Monthly,Number of Live Births,960
+TENNESSEE,2020,June,Monthly,Number of Live Births,6589
+TEXAS,2020,June,Monthly,Number of Live Births,29257
+UTAH,2020,June,Monthly,Number of Live Births,4117
+VERMONT,2020,June,Monthly,Number of Live Births,445
+VIRGINIA,2020,June,Monthly,Number of Live Births,7926
+WASHINGTON,2020,June,Monthly,Number of Live Births,7117
+WEST VIRGINIA,2020,June,Monthly,Number of Live Births,1449
+WISCONSIN,2020,June,Monthly,Number of Live Births,5249
+WYOMING,2020,June,Monthly,Number of Live Births,526
+PUERTO RICO,2020,June,Monthly,Number of Live Births,1327
